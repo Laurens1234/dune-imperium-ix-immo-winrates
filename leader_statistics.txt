@@ -1,0 +1,328 @@
+Percentage of times each leader ends in each ending position:
+Ilesa:
+  Average ending place: 2.22
+  Average winrate: 27.78%
+  1st place: 27.78%
+  2st place: 30.56%
+  3st place: 33.33%
+  4st place: 8.33%
+  Total games: 36
+Hundro:
+  Average ending place: 2.31
+  Average winrate: 32.52%
+  1st place: 32.52%
+  2st place: 24.54%
+  3st place: 22.09%
+  4st place: 20.86%
+  Total games: 163
+Ariana:
+  Average ending place: 2.33
+  Average winrate: 26.60%
+  1st place: 26.60%
+  2st place: 30.85%
+  3st place: 25.53%
+  4st place: 17.02%
+  Total games: 94
+Ilban:
+  Average ending place: 2.44
+  Average winrate: 28.06%
+  1st place: 28.06%
+  2st place: 24.46%
+  3st place: 23.02%
+  4st place: 24.46%
+  Total games: 139
+Baron:
+  Average ending place: 2.46
+  Average winrate: 24.40%
+  1st place: 24.40%
+  2st place: 25.00%
+  3st place: 30.95%
+  4st place: 19.64%
+  Total games: 168
+Rhombur:
+  Average ending place: 2.46
+  Average winrate: 27.00%
+  1st place: 27.00%
+  2st place: 22.00%
+  3st place: 29.00%
+  4st place: 22.00%
+  Total games: 100
+Helena:
+  Average ending place: 2.57
+  Average winrate: 25.17%
+  1st place: 25.17%
+  2st place: 20.28%
+  3st place: 27.27%
+  4st place: 27.27%
+  Total games: 143
+Leto:
+  Average ending place: 2.57
+  Average winrate: 23.21%
+  1st place: 23.21%
+  2st place: 25.89%
+  3st place: 21.43%
+  4st place: 29.46%
+  Total games: 112
+Memnon:
+  Average ending place: 2.57
+  Average winrate: 0.00%
+  2st place: 64.29%
+  3st place: 14.29%
+  4st place: 21.43%
+  Total games: 14
+Tessia:
+  Average ending place: 2.59
+  Average winrate: 17.48%
+  1st place: 17.48%
+  2st place: 29.13%
+  3st place: 30.10%
+  4st place: 23.30%
+  Total games: 103
+Beast:
+  Average ending place: 2.65
+  Average winrate: 20.89%
+  1st place: 20.89%
+  2st place: 20.25%
+  3st place: 32.28%
+  4st place: 26.58%
+  Total games: 158
+Yuna:
+  Average ending place: 2.65
+  Average winrate: 23.60%
+  1st place: 23.60%
+  2st place: 20.22%
+  3st place: 23.60%
+  4st place: 32.58%
+  Total games: 89
+Paul:
+  Average ending place: 2.67
+  Average winrate: 13.75%
+  1st place: 13.75%
+  2st place: 33.75%
+  3st place: 23.75%
+  4st place: 28.75%
+  Total games: 80
+Ecaz:
+  Average ending place: 2.73
+  Average winrate: 20.00%
+  1st place: 20.00%
+  2st place: 19.23%
+  3st place: 28.46%
+  4st place: 32.31%
+  Total games: 130
+
+Average ending place for each leader:
+Ilesa: 2.22
+Hundro: 2.31
+Ariana: 2.33
+Ilban: 2.44
+Baron: 2.46
+Rhombur: 2.46
+Helena: 2.57
+Leto: 2.57
+Memnon: 2.57
+Tessia: 2.59
+Beast: 2.65
+Yuna: 2.65
+Paul: 2.67
+Ecaz: 2.73
+
+Total number of games for each leader (sorted from highest to lowest):
+Baron: 168
+Hundro: 163
+Beast: 158
+Helena: 143
+Ilban: 139
+Ecaz: 130
+Leto: 112
+Tessia: 103
+Rhombur: 100
+Ariana: 94
+Yuna: 89
+Paul: 80
+Ilesa: 36
+Memnon: 14
+
+Winrate for each leader from each starting position:
+Hundro:
+  Starting position 1:
+    Winrate: 30.95% (42 games)
+    Average ending place: 2.21
+  Starting position 2:
+    Winrate: 35.38% (65 games)
+    Average ending place: 2.29
+  Starting position 3:
+    Winrate: 31.91% (47 games)
+    Average ending place: 2.36
+  Starting position 4:
+    Winrate: 22.22% (9 games)
+    Average ending place: 2.67
+Ilban:
+  Starting position 1:
+    Winrate: 20.00% (25 games)
+    Average ending place: 2.44
+  Starting position 2:
+    Winrate: 33.33% (21 games)
+    Average ending place: 2.52
+  Starting position 3:
+    Winrate: 27.78% (36 games)
+    Average ending place: 2.56
+  Starting position 4:
+    Winrate: 29.82% (57 games)
+    Average ending place: 2.33
+Tessia:
+  Starting position 1:
+    Winrate: 12.12% (33 games)
+    Average ending place: 2.73
+  Starting position 2:
+    Winrate: 26.09% (23 games)
+    Average ending place: 2.48
+  Starting position 3:
+    Winrate: 13.04% (23 games)
+    Average ending place: 2.57
+  Starting position 4:
+    Winrate: 20.83% (24 games)
+    Average ending place: 2.54
+Ecaz:
+  Starting position 1:
+    Winrate: 32.00% (25 games)
+    Average ending place: 2.56
+  Starting position 2:
+    Winrate: 14.29% (21 games)
+    Average ending place: 3.00
+  Starting position 3:
+    Winrate: 14.71% (34 games)
+    Average ending place: 2.79
+  Starting position 4:
+    Winrate: 20.00% (50 games)
+    Average ending place: 2.66
+Ariana:
+  Starting position 1:
+    Winrate: 13.04% (23 games)
+    Average ending place: 2.48
+  Starting position 2:
+    Winrate: 37.04% (27 games)
+    Average ending place: 2.19
+  Starting position 3:
+    Winrate: 26.09% (23 games)
+    Average ending place: 2.35
+  Starting position 4:
+    Winrate: 28.57% (21 games)
+    Average ending place: 2.33
+Beast:
+  Starting position 1:
+    Winrate: 22.58% (31 games)
+    Average ending place: 2.58
+  Starting position 2:
+    Winrate: 21.95% (41 games)
+    Average ending place: 2.61
+  Starting position 3:
+    Winrate: 29.03% (31 games)
+    Average ending place: 2.39
+  Starting position 4:
+    Winrate: 14.55% (55 games)
+    Average ending place: 2.85
+Baron:
+  Starting position 1:
+    Winrate: 25.00% (28 games)
+    Average ending place: 2.50
+  Starting position 2:
+    Winrate: 26.09% (46 games)
+    Average ending place: 2.43
+  Starting position 3:
+    Winrate: 24.00% (50 games)
+    Average ending place: 2.38
+  Starting position 4:
+    Winrate: 22.73% (44 games)
+    Average ending place: 2.55
+Helena:
+  Starting position 1:
+    Winrate: 23.33% (30 games)
+    Average ending place: 2.40
+  Starting position 2:
+    Winrate: 21.74% (23 games)
+    Average ending place: 2.70
+  Starting position 3:
+    Winrate: 26.19% (42 games)
+    Average ending place: 2.76
+  Starting position 4:
+    Winrate: 27.08% (48 games)
+    Average ending place: 2.44
+Leto:
+  Starting position 1:
+    Winrate: 32.14% (28 games)
+    Average ending place: 2.25
+  Starting position 2:
+    Winrate: 14.29% (28 games)
+    Average ending place: 2.68
+  Starting position 3:
+    Winrate: 20.00% (25 games)
+    Average ending place: 2.64
+  Starting position 4:
+    Winrate: 25.81% (31 games)
+    Average ending place: 2.71
+Rhombur:
+  Starting position 1:
+    Winrate: 25.81% (31 games)
+    Average ending place: 2.55
+  Starting position 2:
+    Winrate: 30.77% (26 games)
+    Average ending place: 2.46
+  Starting position 3:
+    Winrate: 34.78% (23 games)
+    Average ending place: 2.26
+  Starting position 4:
+    Winrate: 15.00% (20 games)
+    Average ending place: 2.55
+Paul:
+  Starting position 1:
+    Winrate: 18.92% (37 games)
+    Average ending place: 2.38
+  Starting position 2:
+    Winrate: 6.67% (15 games)
+    Average ending place: 3.07
+  Starting position 3:
+    Winrate: 0.00% (18 games)
+    Average ending place: 3.17
+  Starting position 4:
+    Winrate: 30.00% (10 games)
+    Average ending place: 2.30
+Yuna:
+  Starting position 1:
+    Winrate: 22.86% (35 games)
+    Average ending place: 2.51
+  Starting position 2:
+    Winrate: 14.71% (34 games)
+    Average ending place: 2.94
+  Starting position 3:
+    Winrate: 30.77% (13 games)
+    Average ending place: 2.62
+  Starting position 4:
+    Winrate: 57.14% (7 games)
+    Average ending place: 2.00
+Ilesa:
+  Starting position 1:
+    Winrate: 33.33% (9 games)
+    Average ending place: 1.78
+  Starting position 2:
+    Winrate: 25.00% (12 games)
+    Average ending place: 2.42
+  Starting position 3:
+    Winrate: 33.33% (9 games)
+    Average ending place: 2.00
+  Starting position 4:
+    Winrate: 16.67% (6 games)
+    Average ending place: 2.83
+Memnon:
+  Starting position 1:
+    Winrate: 0.00% (7 games)
+    Average ending place: 2.43
+  Starting position 2:
+    Winrate: 0.00% (2 games)
+    Average ending place: 3.50
+  Starting position 3:
+    Winrate: 0.00% (2 games)
+    Average ending place: 2.00
+  Starting position 4:
+    Winrate: 0.00% (3 games)
+    Average ending place: 2.67
