@@ -103,3 +103,8 @@ if __name__ == "__main__":
             print(f"  Starting position {starting_position}:")
             print(f"    Winrate: {winrate:.2f}% ({total_games} games)")
             print(f"    Average ending place: {average_ending_place:.2f}")
+
+    # Print list of leaders sorted by winrate (highest to lowest)
+    print("\nList of leaders sorted by winrate (highest to lowest):")
+    for leader, winrate in sorted_leaders_winrate:
+        print(f"{leader}: {winrate:.2f}%")

@@ -326,3 +326,19 @@ Memnon:
   Starting position 4:
     Winrate: 0.00% (3 games)
     Average ending place: 2.67
+
+List of leaders sorted by winrate (highest to lowest):
+Hundro: 32.52%
+Ilban: 28.06%
+Ilesa: 27.78%
+Rhombur: 27.00%
+Ariana: 26.60%
+Helena: 25.17%
+Baron: 24.40%
+Yuna: 23.60%
+Leto: 23.21%
+Beast: 20.89%
+Ecaz: 20.00%
+Tessia: 17.48%
+Paul: 13.75%
+Memnon: 0.00%
