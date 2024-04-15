@@ -1,144 +1,46 @@
-# leader_percentage.py
+import pandas as pd
 
-# Function to calculate the percentage of times each leader ends in each ending position
-def calculate_leader_percentage(data):
-    leader_count = {}
-    leader_total_games = {}
-    leader_total_wins = {}
-    leader_winrate_from_starting_position = {}
+# Load the CSV data into a DataFrame
+df = pd.read_csv('dune_imperium_data.csv')
 
-    for item in data:
-        leader = item[2]
-        starting_position = item[3]
-        ending_position = item[5]
+# Group the data by Leader and Starting Position and count the occurrences of each ending position
+leader_starting_position_counts = df.groupby(['Leader', 'Starting Position'])['Ending Position'].value_counts().unstack(fill_value=0)
 
-        leader_count.setdefault(leader, {}).setdefault(ending_position, 0)
-        leader_count[leader][ending_position] += 1
+# Calculate the total number of games played by each leader and starting position combination
+leader_starting_position_counts['Total Games'] = leader_starting_position_counts.sum(axis=1)
 
-        leader_total_games.setdefault(leader, 0)
-        leader_total_games[leader] += 1
+# Calculate the win rate for each leader and starting position combination
+leader_starting_position_counts['Win Rate'] = (leader_starting_position_counts[1] / leader_starting_position_counts['Total Games']) * 100  # Convert to percentage
 
-        if ending_position == 1:
-            leader_total_wins.setdefault(leader, 0)
-            leader_total_wins[leader] += 1
+# Calculate the average ending position for each leader and starting position combination
+average_ending_position_starting = df.groupby(['Leader', 'Starting Position'])['Ending Position'].mean()
 
-        leader_winrate_from_starting_position.setdefault(leader, {}).setdefault(starting_position, [0, 0])
-        leader_winrate_from_starting_position[leader][starting_position][0] += 1
-        if ending_position == 1:
-            leader_winrate_from_starting_position[leader][starting_position][1] += 1
+# Combine the win rate and total games with the average ending position
+leader_starting_position_stats = pd.concat([leader_starting_position_counts[['Win Rate', 'Total Games']], average_ending_position_starting.rename('Average Ending Position')], axis=1)
 
-    leader_percentage = {}
-    leader_average_ending_place = {}
-    leader_average_winrate = {}
-    for leader, counts in leader_count.items():
-        leader_percentage[leader] = {}
-        leader_average_ending_place[leader] = sum([pos * count for pos, count in counts.items()]) / leader_total_games[leader] if leader_total_games[leader] > 0 else 0
-        leader_average_winrate[leader] = (leader_total_wins.get(leader, 0) / leader_total_games[leader]) * 100 if leader_total_games[leader] > 0 else 0
-        for position, count in counts.items():
-            leader_percentage[leader][position] = (count / leader_total_games[leader]) * 100 if leader_total_games[leader] > 0 else 0
+# Sort the results by win rate
+leader_starting_position_stats_sorted = leader_starting_position_stats.sort_values(by='Win Rate', ascending=False)
 
-    # Sort leaders by average ending place (lowest to highest)
-    sorted_leaders_ending_place = sorted(leader_average_ending_place.items(), key=lambda x: x[1])
+# Display the Leader and Starting Position Statistics
+print("\nLeader and Starting Position Statistics:")
+print(leader_starting_position_stats_sorted)
 
-    # Sort leaders by average winrate (highest to lowest)
-    sorted_leaders_winrate = sorted(leader_average_winrate.items(), key=lambda x: x[1], reverse=True)
+# Leader Statistics
+leader_stats = leader_starting_position_stats_sorted.groupby('Leader')[['Win Rate', 'Total Games', 'Average Ending Position']].mean()
+print("\nLeader Statistics:")
+print(leader_stats)
 
-    # Sort leaders by total games (highest to lowest)
-    sorted_total_games = sorted(leader_total_games.items(), key=lambda x: x[1], reverse=True)
+# Game Balance Assessment - Example of analyzing win rates for each starting position
+starting_position_win_rates = df.groupby('Starting Position')['Ending Position'].apply(lambda x: (x == 1).sum() / len(x) * 100)
+print("\nGame Balance Assessment - Win Rates by Starting Position:")
+print(starting_position_win_rates)
 
-    return leader_percentage, sorted_leaders_ending_place, sorted_leaders_winrate, leader_average_ending_place, leader_total_games, sorted_total_games, leader_winrate_from_starting_position
+# Average Ending Position by Starting Position
+average_ending_position_starting = df.groupby('Starting Position')['Ending Position'].mean()
+print("\nAverage Ending Position by Starting Position:")
+print(average_ending_position_starting)
 
-if __name__ == "__main__":
-    import csv
-    import sys
-
-    # Read data from CSV file
-    def read_data_from_csv(csv_filename):
-        with open(csv_filename, 'r', newline='') as csvfile:
-            reader = csv.DictReader(csvfile)
-            return [(int(row['Game ID']), row['Player'], row['Leader'], int(row['Starting Position']), float(row['Score']), int(row['Ending Position'])) for row in reader]
-
-    # Check if the CSV filename is provided as a command-line argument
-    if len(sys.argv) != 2:
-        print("Usage: python leader_percentage.py <csv_filename>")
-        sys.exit(1)
-
-    csv_filename = sys.argv[1]
-
-    # Read data from the CSV file
-    parsed_data = read_data_from_csv(csv_filename)
-
-    # Calculate leader percentage for each ending position, average ending place, average winrate, total games, and winrate from starting position
-    leader_percentage, sorted_leaders_ending_place, sorted_leaders_winrate, leader_average_ending_place, leader_total_games, sorted_total_games, leader_winrate_from_starting_position = calculate_leader_percentage(parsed_data)
-
-    # Print leader percentage for each ending position
-    print("Percentage of times each leader ends in each ending position:")
-    for leader, average_ending_place in sorted_leaders_ending_place:
-        print(f"{leader}:")
-        print(f"  Average ending place: {average_ending_place:.2f}")
-        print(f"  Average winrate: {dict(sorted_leaders_winrate)[leader]:.2f}%")
-        for position, percentage in sorted(leader_percentage[leader].items()):
-            print(f"  {position}st place: {percentage:.2f}%")
-        print(f"  Total games: {leader_total_games[leader]}")
-
-    # Print list of average ending place at the end
-    print("\nAverage ending place for each leader:")
-    for leader, average_ending_place in sorted(leader_average_ending_place.items(), key=lambda x: x[1]):
-        print(f"{leader}: {average_ending_place:.2f}")
-
-    # Print list of total games (highest to lowest)
-    print("\nTotal number of games for each leader (sorted from highest to lowest):")
-    for leader, total_games in sorted_total_games:
-        print(f"{leader}: {total_games}")
-
-    # Print winrate for each leader from each starting position
-    print("\nWinrate for each leader from each starting position:")
-    for leader, starting_positions in leader_winrate_from_starting_position.items():
-        print(f"{leader}:")
-        for starting_position, winrate_data in sorted(starting_positions.items()):
-            total_games = winrate_data[0]
-            total_wins = winrate_data[1]
-            winrate = (total_wins / total_games) * 100 if total_games > 0 else 0
-            average_ending_place = sum([item[5] for item in parsed_data if item[2] == leader and item[3] == starting_position]) / total_games if total_games > 0 else 0
-            print(f"  Starting position {starting_position}:")
-            print(f"    Winrate: {winrate:.2f}% ({total_games} games)")
-            print(f"    Average ending place: {average_ending_place:.2f}")
-
-    # Print list of leaders sorted by winrate (highest to lowest)
-    print("\nList of leaders sorted by winrate (highest to lowest):")
-    for leader, winrate in sorted_leaders_winrate:
-        print(f"{leader}: {winrate:.2f}%")
-    
-# Calculate average ending place for each position for leaders
-average_ending_place_for_positions = {}
-for position in range(1, 5):  # Assuming 4 starting positions
-    total_ending_place = sum([item[5] for item in parsed_data if item[3] == position])
-    total_games = len([item for item in parsed_data if item[3] == position])
-    average_ending_place_for_positions[position] = total_ending_place / total_games if total_games > 0 else 0
-
-# Print average ending place for each position for leaders
-print("\nAverage ending place for each position for leaders:")
-for position, average_ending_place in sorted(average_ending_place_for_positions.items()):
-    print(f"{position}st place: {average_ending_place:.2f}")
-
-# Sorted list for each leader by position with the amount of games played by each leader in each position
-print("\nSorted list for each leader by position with the amount of games played:")
-for leader, starting_positions in leader_winrate_from_starting_position.items():
-    print(f"\n{leader}:")
-    for position, winrate_data in sorted(starting_positions.items()):
-        total_games = winrate_data[0] + winrate_data[1]
-        print(f"  Position {position}: {total_games} games")
-
-# Calculate average ending place for each position for leaders
-average_ending_place_for_positions = {}
-for position in range(1, 5):  # Assuming 4 starting positions
-    total_ending_place = sum([item[5] for item in parsed_data if item[3] == position])
-    total_games = len([item for item in parsed_data if item[3] == position])
-    average_ending_place_for_positions[position] = total_ending_place / total_games if total_games > 0 else 0
-
-# Print average ending place for each position for leaders
-print("\nAverage ending place for each position for leaders:")
-for position, average_ending_place in sorted(average_ending_place_for_positions.items()):
-    print(f"{position}st place: {average_ending_place:.2f}")
-
-
+# Leader Popularity Analysis
+leader_popularity = df['Leader'].value_counts()
+print("\nLeader Popularity Analysis:")
+print(leader_popularity)
