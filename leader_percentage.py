@@ -141,13 +141,4 @@ print("\nAverage ending place for each position for leaders:")
 for position, average_ending_place in sorted(average_ending_place_for_positions.items()):
     print(f"{position}st place: {average_ending_place:.2f}")
 
-# Sorted list for each leader by position with the amount of games played by each leader in each position
-print("\nSorted list for each leader by position with the amount of games played:")
-for leader, starting_positions in leader_winrate_from_starting_position.items():
-    print(f"\n{leader}:")
-    for position, winrate_data in sorted(starting_positions.items()):
-        total_games = winrate_data[0] + winrate_data[1]
-        total_wins = winrate_data[1]
-        winrate = (total_wins / total_games) * 100 if total_games > 0 else 0
-        average_ending_place = sum([item[5] for item in parsed_data if item[2] == leader and item[3] == position]) / total_games if total_games > 0 else 0
-        print(f"  Position {position}: {total_games} games, Winrate: {winrate:.2f}%, Average ending place: {average_ending_place:.2f}")
+
