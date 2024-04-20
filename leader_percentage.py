@@ -87,3 +87,18 @@ for leader, data in leader_stats_sorted.iterrows():
     print(win_rate_str)
     print("Starting Position Average Ending Positions:")
     print(avg_end_position_str)
+    
+    # Calculate the win rate for each starting position across all players
+starting_position_counts = df.groupby('Starting Position')['Ending Position'].value_counts().unstack(fill_value=0)
+
+# Calculate the total number of games played from each starting position
+starting_position_counts['Total Games'] = starting_position_counts.sum(axis=1)
+
+# Calculate win rates for each starting position across all players
+starting_position_win_rates = (starting_position_counts[1] / starting_position_counts['Total Games']) * 100  # Convert to percentage
+
+# Print the win rates for each starting position
+print("\nWin Rates for Each Starting Position Across All Players:")
+for position, win_rate in starting_position_win_rates.items():
+    print(f"Starting Position {position}: {win_rate:.2f}%")
+

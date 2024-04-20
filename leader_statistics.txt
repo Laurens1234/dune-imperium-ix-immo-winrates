@@ -312,3 +312,9 @@ Position 1: 2.49
 Position 2: 2.45
 Position 3: 2.93
 Position 4: 3.05
+
+Win Rates for Each Starting Position Across All Players:
+Starting Position 1: 32.41%
+Starting Position 2: 23.82%
+Starting Position 3: 22.53%
+Starting Position 4: 21.23%
