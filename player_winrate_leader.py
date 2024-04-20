@@ -5,7 +5,7 @@ file_path = "dune_imperium_data.csv"  # Specify the correct file path
 df = pd.read_csv(file_path)
 
 # Specify the player name you want to calculate the win rates for
-player_name = "@krompl"
+player_name = "@zafy"
 
 # Ensure the player names are cleaned by stripping leading/trailing whitespaces
 df['Player'] = df['Player'].str.strip()
