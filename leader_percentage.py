@@ -62,31 +62,38 @@ for starting_position in range(1, 5):
         total_games = data['Total Games']
         print(f"{leader:{max_name_length}}:\t{win_rate:.2f}%\t{avg_end_place:.2f}\t{total_games}")
 
-# Calculate the total average winrate and average end position for each leader
+# Calculate the total average winrate and average ending position for each leader
 total_avg_winrate = leader_stats_sorted['Win Rate'].mean()
 total_avg_end_position = leader_stats_sorted['Average Ending Position'].mean()
 
-# Display the total average winrate and average end position for each leader
-print("\nTotal Average Winrate and Average End Position for Each Leader:")
+# Display the total average winrate and average ending position for each leader
+print("\nTotal Average Winrate and Average Ending Position for Each Leader:")
+
+# Add a description of what's being printed for each leader
+print("\nFor each leader, the following lines show: Win Rate / Average Ending Position / Total Games Played for each seat.")
+
+# Iterate through each leader
 for leader, data in leader_stats_sorted.iterrows():
     win_rate = data['Win Rate']
     avg_end_place = data['Average Ending Position']
     
-    # Retrieve the win rate for each starting position for the current leader, sorted
-    starting_position_win_rates = leader_starting_position_stats_sorted.loc[leader]['Win Rate']
-    sorted_starting_position_win_rates = starting_position_win_rates.sort_index()
-    win_rate_str = "\n".join([f"Position {pos}: {rate:.2f}%" for pos, rate in sorted_starting_position_win_rates.items()])
+    # Retrieve the win rate and average ending position for each seat for the current leader, sorted
+    seat_stats = leader_starting_position_stats_sorted.loc[leader]
+    sorted_seat_stats = seat_stats.sort_index()
     
-    # Retrieve the average ending position for each starting position for the current leader, sorted
-    starting_position_avg_end_positions = leader_starting_position_stats_sorted.loc[leader]['Average Ending Position']
-    sorted_starting_position_avg_end_positions = starting_position_avg_end_positions.sort_index()
-    avg_end_position_str = "\n".join([f"Position {pos}: {avg:.2f}" for pos, avg in sorted_starting_position_avg_end_positions.items()])
-    
+    # Print the leader's overall statistics
     print(f"\n{leader}: Win Rate: {win_rate:.2f}%, Average Ending Position: {avg_end_place:.2f}")
-    print("Starting Position Win Rates:")
-    print(win_rate_str)
-    print("Starting Position Average Ending Positions:")
-    print(avg_end_position_str)
+    
+    # Print each seat's win rate, average ending position, and games played on a separate line
+    for seat, stats in sorted_seat_stats.iterrows():
+        win_rate = stats['Win Rate']
+        avg_end_position = stats['Average Ending Position']
+        total_games = stats['Total Games']
+        
+        # Display win rate, average ending position, and games played
+        print(f"Seat {seat}: {win_rate:.2f}% / {avg_end_position:.2f} / {total_games}")
+
+
     
     # Calculate the win rate for each starting position across all players
 starting_position_counts = df.groupby('Starting Position')['Ending Position'].value_counts().unstack(fill_value=0)

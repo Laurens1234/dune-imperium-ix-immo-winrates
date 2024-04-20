@@ -143,175 +143,93 @@ Paul   :	0.00%	3.39	18.0
 Memnon :	0.00%	3.00	6.0
 Yuna   :	0.00%	2.90	10.0
 
-Total Average Winrate and Average End Position for Each Leader:
+Total Average Winrate and Average Ending Position for Each Leader:
+
+For each leader, the following lines show: Win Rate / Average Ending Position / Total Games Played for each seat.
 
 Memnon: Win Rate: 41.86%, Average Ending Position: 2.23
-Starting Position Win Rates:
-Position 1: 40.91%
-Position 2: 70.00%
-Position 3: 40.00%
-Position 4: 0.00%
-Starting Position Average Ending Positions:
-Position 1: 2.23
-Position 2: 1.80
-Position 3: 2.20
-Position 4: 3.00
+Seat 1: 40.91% / 2.23 / 22.0
+Seat 2: 70.00% / 1.80 / 10.0
+Seat 3: 40.00% / 2.20 / 5.0
+Seat 4: 0.00% / 3.00 / 6.0
 
 Hundro: Win Rate: 31.17%, Average Ending Position: 2.32
-Starting Position Win Rates:
-Position 1: 43.40%
-Position 2: 34.78%
-Position 3: 25.61%
-Position 4: 5.00%
-Starting Position Average Ending Positions:
-Position 1: 1.94
-Position 2: 2.20
-Position 3: 2.49
-Position 4: 3.15
+Seat 1: 43.40% / 1.94 / 53.0
+Seat 2: 34.78% / 2.20 / 92.0
+Seat 3: 25.61% / 2.49 / 82.0
+Seat 4: 5.00% / 3.15 / 20.0
 
 Ariana: Win Rate: 29.89%, Average Ending Position: 2.32
-Starting Position Win Rates:
-Position 1: 35.14%
-Position 2: 23.81%
-Position 3: 26.09%
-Position 4: 34.69%
-Starting Position Average Ending Positions:
-Position 1: 2.16
-Position 2: 2.45
-Position 3: 2.26
-Position 4: 2.39
+Seat 1: 35.14% / 2.16 / 37.0
+Seat 2: 23.81% / 2.45 / 42.0
+Seat 3: 26.09% / 2.26 / 46.0
+Seat 4: 34.69% / 2.39 / 49.0
 
 Ilesa: Win Rate: 28.40%, Average Ending Position: 2.43
-Starting Position Win Rates:
-Position 1: 50.00%
-Position 2: 4.35%
-Position 3: 25.00%
-Position 4: 33.33%
-Starting Position Average Ending Positions:
-Position 1: 2.00
-Position 2: 2.91
-Position 3: 2.55
-Position 4: 2.25
+Seat 1: 50.00% / 2.00 / 26.0
+Seat 2: 4.35% / 2.91 / 23.0
+Seat 3: 25.00% / 2.55 / 20.0
+Seat 4: 33.33% / 2.25 / 12.0
 
 Baron: Win Rate: 28.29%, Average Ending Position: 2.41
-Starting Position Win Rates:
-Position 1: 43.14%
-Position 2: 27.27%
-Position 3: 16.13%
-Position 4: 29.51%
-Starting Position Average Ending Positions:
-Position 1: 2.14
-Position 2: 2.34
-Position 3: 2.68
-Position 4: 2.46
+Seat 1: 43.14% / 2.14 / 51.0
+Seat 2: 27.27% / 2.34 / 77.0
+Seat 3: 16.13% / 2.68 / 62.0
+Seat 4: 29.51% / 2.46 / 61.0
 
 Tessia: Win Rate: 26.74%, Average Ending Position: 2.34
-Starting Position Win Rates:
-Position 1: 34.78%
-Position 2: 16.22%
-Position 3: 21.95%
-Position 4: 31.25%
-Starting Position Average Ending Positions:
-Position 1: 2.20
-Position 2: 2.38
-Position 3: 2.41
-Position 4: 2.40
+Seat 1: 34.78% / 2.20 / 46.0
+Seat 2: 16.22% / 2.38 / 37.0
+Seat 3: 21.95% / 2.41 / 41.0
+Seat 4: 31.25% / 2.40 / 48.0
 
 Rhombur: Win Rate: 25.77%, Average Ending Position: 2.55
-Starting Position Win Rates:
-Position 1: 29.17%
-Position 2: 16.67%
-Position 3: 32.43%
-Position 4: 26.67%
-Starting Position Average Ending Positions:
-Position 1: 2.44
-Position 2: 2.77
-Position 3: 2.32
-Position 4: 2.63
+Seat 1: 29.17% / 2.44 / 48.0
+Seat 2: 16.67% / 2.77 / 48.0
+Seat 3: 32.43% / 2.32 / 37.0
+Seat 4: 26.67% / 2.63 / 30.0
 
 Beast: Win Rate: 25.64%, Average Ending Position: 2.38
-Starting Position Win Rates:
-Position 1: 35.42%
-Position 2: 29.23%
-Position 3: 18.60%
-Position 4: 20.51%
-Starting Position Average Ending Positions:
-Position 1: 2.21
-Position 2: 2.29
-Position 3: 2.44
-Position 4: 2.53
+Seat 1: 35.42% / 2.21 / 48.0
+Seat 2: 29.23% / 2.29 / 65.0
+Seat 3: 18.60% / 2.44 / 43.0
+Seat 4: 20.51% / 2.53 / 78.0
 
 Ecaz: Win Rate: 25.23%, Average Ending Position: 2.53
-Starting Position Win Rates:
-Position 1: 28.57%
-Position 2: 28.12%
-Position 3: 29.03%
-Position 4: 19.23%
-Starting Position Average Ending Positions:
-Position 1: 2.52
-Position 2: 2.41
-Position 3: 2.50
-Position 4: 2.62
+Seat 1: 28.57% / 2.52 / 42.0
+Seat 2: 28.12% / 2.41 / 32.0
+Seat 3: 29.03% / 2.50 / 62.0
+Seat 4: 19.23% / 2.62 / 78.0
 
 Ilban: Win Rate: 24.88%, Average Ending Position: 2.54
-Starting Position Win Rates:
-Position 1: 33.33%
-Position 2: 12.12%
-Position 3: 32.26%
-Position 4: 20.73%
-Starting Position Average Ending Positions:
-Position 1: 2.28
-Position 2: 2.79
-Position 3: 2.45
-Position 4: 2.62
+Seat 1: 33.33% / 2.28 / 36.0
+Seat 2: 12.12% / 2.79 / 33.0
+Seat 3: 32.26% / 2.45 / 62.0
+Seat 4: 20.73% / 2.62 / 82.0
 
 Yuna: Win Rate: 19.59%, Average Ending Position: 2.67
-Starting Position Win Rates:
-Position 1: 21.88%
-Position 2: 22.92%
-Position 3: 15.38%
-Position 4: 0.00%
-Starting Position Average Ending Positions:
-Position 1: 2.58
-Position 2: 2.77
-Position 3: 2.62
-Position 4: 2.90
+Seat 1: 21.88% / 2.58 / 64.0
+Seat 2: 22.92% / 2.77 / 48.0
+Seat 3: 15.38% / 2.62 / 26.0
+Seat 4: 0.00% / 2.90 / 10.0
 
 Helena: Win Rate: 18.35%, Average Ending Position: 2.72
-Starting Position Win Rates:
-Position 1: 22.73%
-Position 2: 16.67%
-Position 3: 12.28%
-Position 4: 20.99%
-Starting Position Average Ending Positions:
-Position 1: 2.61
-Position 2: 2.61
-Position 3: 2.84
-Position 4: 2.74
+Seat 1: 22.73% / 2.61 / 44.0
+Seat 2: 16.67% / 2.61 / 36.0
+Seat 3: 12.28% / 2.84 / 57.0
+Seat 4: 20.99% / 2.74 / 81.0
 
 Paul: Win Rate: 18.18%, Average Ending Position: 2.77
-Starting Position Win Rates:
-Position 1: 25.45%
-Position 2: 14.81%
-Position 3: 18.75%
-Position 4: 0.00%
-Starting Position Average Ending Positions:
-Position 1: 2.51
-Position 2: 2.96
-Position 3: 2.72
-Position 4: 3.39
+Seat 1: 25.45% / 2.51 / 55.0
+Seat 2: 14.81% / 2.96 / 27.0
+Seat 3: 18.75% / 2.72 / 32.0
+Seat 4: 0.00% / 3.39 / 18.0
 
 Leto: Win Rate: 15.73%, Average Ending Position: 2.72
-Starting Position Win Rates:
-Position 1: 24.44%
-Position 2: 19.15%
-Position 3: 11.90%
-Position 4: 6.82%
-Starting Position Average Ending Positions:
-Position 1: 2.49
-Position 2: 2.45
-Position 3: 2.93
-Position 4: 3.05
+Seat 1: 24.44% / 2.49 / 45.0
+Seat 2: 19.15% / 2.45 / 47.0
+Seat 3: 11.90% / 2.93 / 42.0
+Seat 4: 6.82% / 3.05 / 44.0
 
 Win Rates for Each Starting Position Across All Players:
 Starting Position 1: 32.41%
