@@ -5,6 +5,6 @@ main.py turns discord bot output into csv style data. (need to make sure regex i
 
 leader_percentage.py analysis the data.
 
-dataset.txt only contains data for up to game ?
+dataset.txt only contains data for up to game 471
 
 Resubmits up to this game have been manually removed from dataset.txt

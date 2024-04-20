@@ -1,4 +1,1292 @@
 Dune Imperium Bot
+APP
+ — Today at 4:24 AM
+Submit Accepted [Game ID: 634]
+1st:@Giegling :Ilban: Position: 4 80.1
+2nd:@contiuspilate :Beast: Position: 3 -13.4
+3rd:@lux :Baron: Position: 1 -4.8
+4th:@Yung Savage :Ilesa: Position: 2 -62.0
+Dune Imperium Bot
+APP
+ — Today at 3:22 AM
+Submit Accepted [Game ID: 633]
+1st:@krompl :Ilesa: Position: 3 17.2
+2nd:@Yooliss :Hundro: Position: 1 13.7
+3rd:@friachi :Memnon: Position: 4 -14.6
+4th:@Giegling :Beast: Position: 2 -16.4
+Dune Imperium Bot
+APP
+ — Today at 2:39 AM
+Submit Accepted [Game ID: 632]
+1st:@BooKKeeper :Helena: Position: 2 40.7
+2nd:@contiuspilate :Ecaz: Position: 4 -14.1
+3rd:@lux :Memnon: Position: 1 -1.5
+4th:@waata :Paul: Position: 3 -25.1
+Dune Imperium Bot
+APP
+ — Today at 2:34 AM
+Submit Accepted [Game ID: 631]
+1st:@Thuney :Ariana: Position: 4 43.8
+2nd:@Iscreaman :Paul: Position: 3 8.6
+3rd:@vintaya :Ecaz: Position: 1 -18.9
+4th:@asat0r :Ilban: Position: 2 -33.5
+Dune Imperium Bot
+APP
+ — Today at 1:52 AM
+Submit Accepted [Game ID: 630]
+1st:@rybas_h3 :Tessia: Position: 1 17.4
+2nd:@Jeremias :Ecaz: Position: 4 22.7
+3rd:@Yooliss :Memnon: Position: 3 -12.8
+4th:@e_jasmins :Baron: Position: 2 -27.3
+Dune Imperium Bot
+APP
+ — Today at 1:07 AM
+Submit Accepted [Game ID: 629]
+1st:@lux :Baron: Position: 4 69.1
+2nd:@vintaya :Ariana: Position: 1 11.0
+3rd:@djgod79 :Ecaz: Position: 3 -7.8
+4th:@eliottjacques5 :Hundro: Position: 2 -72.3
+Dune Imperium Bot
+APP
+ — Today at 1:05 AM
+Submit Accepted [Game ID: 628]
+1st:@Iscreaman :Hundro: Position: 3 56.8
+2nd:@Londonerd :Ecaz: Position: 4 -6.0
+3rd:@Thuney :Yuna: Position: 2 -17.0
+4th:@asat0r :Ilban: Position: 1 -33.8
+Dune Imperium Bot
+APP
+ — Today at 12:04 AM
+Submit Accepted [Game ID: 627]
+1st:@cybervova :Yuna: Position: 1 69.2
+2nd:@contiuspilate :Beast: Position: 2 3.3
+3rd:@devzzzy :Leto: Position: 3 -25.1
+4th:@Yung Savage :Ilban: Position: 4 -47.4
+Dune Imperium Bot
+APP
+ — Today at 12:04 AM
+Submit Accepted [Game ID: 626]
+1st:@Taff_Live :Beast: Position: 4 24.6
+2nd:@Sweetsale90 :Baron: Position: 2 44.9
+3rd:@Katatonic :Helena: Position: 3 -21.0
+4th:@e_jasmins :Rhombur: Position: 1 -48.5
+Dune Imperium Bot
+APP
+ — Today at 12:02 AM
+Submit Accepted [Game ID: 625]
+1st:@Barry Bandit :Hundro: Position: 3 45.7
+2nd:@Ajokli :Beast: Position: 4 -3.0
+3rd:@lavishruin :Ariana: Position: 2 -19.5
+4th:@Giegling :Baron: Position: 1 -23.2
+Dune Imperium Bot
+APP
+ — Yesterday at 11:55 PM
+Submit Accepted [Game ID: 624]
+1st:@Londonerd :Leto: Position: 2 36.9
+2nd:@Lonk :Paul: Position: 4 29.9
+3rd:@lilgreenghouls :Ilesa: Position: 3 -32.0
+4th:@GVX :Memnon: Position: 1 -34.7
+Dune Imperium Bot
+APP
+ — Yesterday at 11:28 PM
+Submit Accepted [Game ID: 623]
+1st:@eliottjacques5 :Memnon: Position: 3 30.7
+2nd:@Teller :Leto: Position: 1 27.0
+3rd:@Thuney :Hundro: Position: 2 -29.2
+4th:@lux :Paul: Position: 4 -28.6
+Dune Imperium Bot
+APP
+ — Yesterday at 10:59 PM
+Submit Accepted [Game ID: 622]
+1st:@cybervova :Hundro: Position: 1 62.6
+2nd:@devzzzy :Ilban: Position: 2 -10.4
+3rd:@fdgddgd :Beast: Position: 4 -8.4
+4th:@Barry Bandit :Paul: Position: 3 -43.8
+Dune Imperium Bot
+APP
+ — Yesterday at 10:48 PM
+Submit Accepted [Game ID: 621]
+1st:@Ajokli :Hundro: Position: 3 54.4
+2nd:@rybas_h3 :Ilesa: Position: 2 -15.6
+3rd:@Sir Jon :Ilban: Position: 4 -0.8
+4th:@Lio :Yuna: Position: 1 -38.0
+Dune Imperium Bot
+APP
+ — Yesterday at 10:10 PM
+Submit Accepted [Game ID: 620]
+1st:@SUPPORTAI :Ariana: Position: 1 50.6
+2nd:@justinbyun :Ecaz: Position: 3 -14.7
+3rd:@e_jasmins :Beast: Position: 4 -6.6
+4th:@Unleazer :Tessia: Position: 2 -29.3
+Dune Imperium Bot
+APP
+ — Yesterday at 9:37 PM
+Submit Accepted [Game ID: 619]
+1st:@lilgreenghouls :Yuna: Position: 3 20.8
+2nd:@asat0r :Hundro: Position: 1 21.0
+3rd:@skream :Baron: Position: 2 -20.3
+4th:@Sweetsale90 :Leto: Position: 4 -21.5
+Dune Imperium Bot
+APP
+ — Yesterday at 8:25 PM
+Submit Accepted [Game ID: 618]
+1st:@Taff_Live :Rhombur: Position: 3 30.3
+2nd:@In Flames :Leto: Position: 2 29.7
+3rd:@BenitoMax :Ilban: Position: 4 -12.0
+4th:@franc :Ecaz: Position: 1 -47.9
+Dune Imperium Bot
+APP
+ — Yesterday at 7:37 PM
+Submit Accepted [Game ID: 617]
+1st:@Yung Savage :Ariana: Position: 1 46.6
+2nd:@eliottjacques5 :Leto: Position: 3 15.6
+3rd:@someproudly :Rhombur: Position: 4 -11.7
+4th:@Zelbot :Hundro: Position: 2 -50.5
+Dune Imperium Bot
+APP
+ — Yesterday at 6:40 PM
+Submit Accepted [Game ID: 616]
+1st:@crashtest776 :Paul: Position: 2 52.2
+2nd:@Zelbot :Leto: Position: 1 18.6
+3rd:@Yung Savage :Helena: Position: 3 -19.3
+4th:@someproudly :Beast: Position: 4 -51.5
+Dune Imperium Bot
+APP
+ — Yesterday at 5:08 PM
+Submit Accepted [Game ID: 615]
+1st:@Vasya :Ariana: Position: 4 36.1
+2nd:@crashtest776 :Ecaz: Position: 1 -11.9
+3rd:@Giegling :Rhombur: Position: 2 -2.4
+4th:@Siroz26 :Ilesa: Position: 3 -21.8
+Dune Imperium Bot
+APP
+ — Yesterday at 4:56 PM
+Submit Accepted [Game ID: 614]
+1st:@ball :Beast: Position: 2 38.0
+2nd:@nobody09 :Ariana: Position: 3 23.3
+3rd:@rybachello :Leto: Position: 4 -2.3
+4th:@april :Tessia: Position: 1 -59.0
+Dune Imperium Bot
+APP
+ — Yesterday at 4:47 PM
+Submit Accepted [Game ID: 613]
+1st:@devzzzy :Baron: Position: 2 36.0
+2nd:@maxcobain :Ecaz: Position: 4 22.8
+3rd:@PartaPax :Tessia: Position: 1 1.8
+4th:@Yung Savage :Ariana: Position: 3 -60.6
+Dune Imperium Bot
+APP
+ — Yesterday at 3:26 PM
+Submit Accepted [Game ID: 612]
+1st:@KharpediemYoun's :Ecaz: Position: 4 84.5
+2nd:@devzzzy :Baron: Position: 1 -6.1
+3rd:@someproudly :Tessia: Position: 2 -34.1
+4th:@nobody09 :Ariana: Position: 3 -44.3
+Dune Imperium Bot
+APP
+ — Yesterday at 2:22 PM
+Submit Accepted [Game ID: 611]
+1st:@someproudly :Helena: Position: 1 44.7
+2nd:@Rosco :Tessia: Position: 2 24.3
+3rd:@devzzzy :Ecaz: Position: 3 -37.6
+4th:@cybervova :Hundro: Position: 4 -31.4
+Dune Imperium Bot
+APP
+ — Yesterday at 10:53 AM
+Submit Accepted [Game ID: 610]
+1st:@CrazyApple :Rhombur: Position: 3 29.3
+2nd:@VIVAFRESHAS :Ariana: Position: 2 23.1
+3rd:@magethegathererrus :Beast: Position: 4 -18.5
+4th:@mooshow :Leto: Position: 1 -33.9
+Dune Imperium Bot
+APP
+ — Yesterday at 10:50 AM
+Submit Accepted [Game ID: 609]
+1st:@killer :Helena: Position: 4 57.3
+2nd:@Narballs :Tessia: Position: 2 7.8
+3rd:@asat0r :Yuna: Position: 3 -7.6
+4th:@epsi2lon#0001 :Beast: Position: 1 -57.5
+Dune Imperium Bot
+APP
+ — Yesterday at 10:14 AM
+Submit Accepted [Game ID: 608]
+1st:@IFreeMan :Baron: Position: 2 19.5
+2nd:@Zelbot :Beast: Position: 1 -1.3
+3rd:@Ponz47 :Ariana: Position: 4 -1.2
+4th:@Siroz26 :Helena: Position: 3 -17.0
+Dune Imperium Bot
+APP
+ — Yesterday at 9:28 AM
+Submit Accepted [Game ID: 607]
+1st:@magethegathererrus :Tessia: Position: 2 52.8
+2nd:@CrazyApple :Hundro: Position: 3 -5.0
+3rd:@davidli642 :Helena: Position: 1 -18.9
+4th:@Kasporov_1991 :Beast: Position: 4 -28.9
+Dune Imperium Bot
+APP
+ — Yesterday at 8:04 AM
+Submit Accepted [Game ID: 606]
+1st:@VIVAFRESHAS :Leto: Position: 2 57.5
+2nd:@CrazyApple :Ariana: Position: 3 -9.0
+3rd:@davidli642 :Hundro: Position: 4 -27.5
+4th:@The Immortal :Ilesa: Position: 1 -21.0
+Dune Imperium Bot
+APP
+ — Yesterday at 6:28 AM
+Submit Accepted [Game ID: 605]
+1st:@Yung Savage :Ariana: Position: 3 31.9
+2nd:@SpiceNav :Beast: Position: 1 32.9
+3rd:@eliottjacques5 :Hundro: Position: 2 -27.8
+4th:@dragalar :Tessia: Position: 4 -36.9
+Dune Imperium Bot
+APP
+ — Yesterday at 4:53 AM
+Submit Accepted [Game ID: 604]
+1st:@krompl :Ariana: Position: 4 21.3
+2nd:@Skyee :Memnon: Position: 1 11.7
+3rd:@DROGIRANOPILE :Ilban: Position: 3 -14.3
+4th:@Giegling :Ecaz: Position: 2 -18.7
+Dune Imperium Bot
+APP
+ — Yesterday at 4:09 AM
+Submit Accepted [Game ID: 603]
+1st:@zafy :Yuna: Position: 1 31.8
+2nd:@davidli642 :Ilban: Position: 4 -3.1
+3rd:@Wooklee :Ariana: Position: 2 -2.3
+4th:@javea1 :Baron: Position: 3 -26.4
+Dune Imperium Bot
+APP
+ — Yesterday at 3:39 AM
+Submit Accepted [Game ID: 602]
+1st:@DROGIRANOPILE :Ilesa: Position: 1 63.3
+2nd:@krompl :Baron: Position: 2 -10.5
+3rd:@Sir Jon :Helena: Position: 3 -4.2
+4th:@friachi :Ecaz: Position: 4 -48.6
+Dune Imperium Bot
+APP
+ — Yesterday at 2:43 AM
+Submit Accepted [Game ID: 601]
+1st:@zafy :Beast: Position: 2 26.1
+2nd:@BenitoMax :Ariana: Position: 3 24.6
+3rd:@djgod79 :Yuna: Position: 1 -9.2
+4th:@javea1 :Ecaz: Position: 4 -41.6
+Dune Imperium Bot
+APP
+ — Yesterday at 2:22 AM
+Submit Accepted [Game ID: 600]
+1st:@Yung Savage :Ilban: Position: 3 41.5
+2nd:@Taff_Live :Yuna: Position: 1 15.4
+3rd:@darkdinner :Ariana: Position: 4 -14.7
+4th:@Cabbage Cat :Rhombur: Position: 2 -42.2
+Dune Imperium Bot
+APP
+ — Yesterday at 1:59 AM
+Submit Accepted [Game ID: 599]
+1st:@Thuney :Tessia: Position: 4 40.5
+2nd:@Franz :Yuna: Position: 1 11.5
+3rd:@Sweetsale90 :Leto: Position: 3 15.1
+4th:@friachi :Ilesa: Position: 2 -67.1
+Dune Imperium Bot
+APP
+ — Yesterday at 1:41 AM
+Submit Accepted [Game ID: 598]
+1st:@krompl :Ariana: Position: 4 27.1
+2nd:@zafy :Ilban: Position: 2 6.4
+3rd:@leonpie :Tessia: Position: 3 13.0
+4th:@Iscreaman :Memnon: Position: 1 -46.5
+Dune Imperium Bot
+APP
+ — Yesterday at 12:37 AM
+Submit Accepted [Game ID: 596]
+1st:@dinosmaroulis :Rhombur: Position: 4 56.5
+2nd:@Yooliss :Tessia: Position: 3 36.3
+3rd:@contiuspilate :Ilesa: Position: 2 -38.5
+4th:@Yung Savage :Paul: Position: 1 -54.3
+Dune Imperium Bot
+APP
+ — Yesterday at 12:26 AM
+Submit Accepted [Game ID: 595]
+1st:@Vigo :Ilban: Position: 3 32.0
+2nd:@krompl :Tessia: Position: 2 5.1
+3rd:@Iscreaman :Paul: Position: 1 -23.3
+4th:@pan Jan :Hundro: Position: 4 -13.7
+Dune Imperium Bot
+APP
+ — Yesterday at 12:11 AM
+Submit Accepted [Game ID: 594]
+1st:@e_jasmins :Rhombur: Position: 1 55.8
+2nd:@Franz :Beast: Position: 4 8.0
+3rd:@Thuney :Leto: Position: 3 -34.1
+4th:@Giegling :Ilban: Position: 2 -29.7
+Dune Imperium Bot
+APP
+ — Yesterday at 12:07 AM
+Submit Accepted [Game ID: 593]
+1st:@IFreeMan :Tessia: Position: 3 22.5
+2nd:@Limeonades :Baron: Position: 1 13.1
+3rd:@Sweetsale90 :Helena: Position: 4 15.0
+4th:@djgod79 :Hundro: Position: 2 -50.6
+Dune Imperium Bot
+APP
+ — 04/18/2024 11:48 PM
+Submit Accepted [Game ID: 592]
+1st:@Mysterium :Baron: Position: 2 30.8
+2nd:@darkdinner :Tessia: Position: 3 20.8
+3rd:@Ajokli :Ariana: Position: 4 -9.8
+4th:@cybervova :Paul: Position: 1 -41.7
+Dune Imperium Bot
+APP
+ — 04/18/2024 11:40 PM
+Submit Accepted [Game ID: 591]
+1st:@eliottjacques5 :Beast: Position: 1 45.5
+2nd:@javea1 :Hundro: Position: 3 40.1
+3rd:@Yung Savage :Ilesa: Position: 2 -38.4
+4th:@dotdotdot :Tessia: Position: 4 -47.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 11:34 PM
+Submit Accepted [Game ID: 590]
+1st:@contiuspilate :Helena: Position: 4 20.2
+2nd:@Vasya :Hundro: Position: 3 35.9
+3rd:@aaaaKIRILL_KIRILL_KIRILL_KIRILL_ :Ariana: Position: 2 -11.0
+4th:@Yooliss :Ecaz: Position: 1 -45.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 11:03 PM
+Submit Accepted [Game ID: 589]
+1st:@krompl :Baron: Position: 2 36.9
+2nd:@devzzzy :Hundro: Position: 4 -12.6
+3rd:@pan Jan :Beast: Position: 3 14.9
+4th:@BenitoMax :Yuna: Position: 1 -39.2
+Dune Imperium Bot
+APP
+ — 04/18/2024 10:47 PM
+Submit Accepted [Game ID: 588]
+1st:@Vigo :Memnon: Position: 1 30.9
+2nd:@dragalar :Beast: Position: 2 25.3
+3rd:@Sweetsale90 :Helena: Position: 4 19.5
+4th:@IFreeMan :Tessia: Position: 3 -75.7
+Dune Imperium Bot
+APP
+ — 04/18/2024 10:14 PM
+Submit Accepted [Game ID: 587]
+1st:@Yooliss :Memnon: Position: 1 49.3
+2nd:@Cabbage Cat :Helena: Position: 3 11.7
+3rd:@vintaya :Rhombur: Position: 4 -23.2
+4th:@In Flames :Paul: Position: 2 -37.8
+Dune Imperium Bot
+APP
+ — 04/18/2024 10:04 PM
+Submit Accepted [Game ID: 586]
+1st:@crashtest776 :Hundro: Position: 2 36.7
+2nd:@magethegathererrus :Beast: Position: 4 -1.2
+3rd:@Raphy :Ilesa: Position: 3 -19.1
+4th:@KharpediemYoun's :Helena: Position: 1 -16.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 10:03 PM
+Submit Accepted [Game ID: 585]
+1st:@crashtest776 :Hundro: Position: 3 46.0
+2nd:@darkdinner :Ilban: Position: 4 9.1
+3rd:@tester :Tessia: Position: 1 -11.7
+4th:@e_jasmins :Baron: Position: 2 -43.3
+Dune Imperium Bot
+APP
+ — 04/18/2024 9:24 PM
+Submit Accepted [Game ID: 584]
+1st:@Franz :Ilban: Position: 3 46.0
+2nd:@BenitoMax :Baron: Position: 1 15.2
+3rd:@Sweetsale90 :Ecaz: Position: 4 15.7
+4th:@eliottjacques5 :Rhombur: Position: 2 -76.9
+Dune Imperium Bot
+APP
+ — 04/18/2024 8:14 PM
+Submit Accepted [Game ID: 583]
+1st:@lilgreenghouls :Ariana: Position: 4 35.8
+2nd:@vaggelakos13 :Paul: Position: 1 12.8
+3rd:@Lonk :Rhombur: Position: 2 -8.7
+4th:@bygbit :Baron: Position: 3 -39.8
+Dune Imperium Bot
+APP
+ — 04/18/2024 7:41 PM
+Submit Accepted [Game ID: 582]
+1st:@lannister2005 :Memnon: Position: 1 64.1
+2nd:@Taff_Live :Helena: Position: 2 9.9
+3rd:@nobody09 :Ariana: Position: 4 -14.9
+4th:@darkdinner :Paul: Position: 3 -59.2
+Dune Imperium Bot
+APP
+ — 04/18/2024 7:24 PM
+Submit Accepted [Game ID: 581]
+1st:@eliottjacques5 :Rhombur: Position: 2 34.2
+2nd:@crashtest776 :Baron: Position: 1 26.9
+3rd:@aaaaKIRILL_KIRILL_KIRILL_KIRILL_ :Ariana: Position: 4 -17.8
+4th:@Franz :Ilban: Position: 3 -43.3
+Dune Imperium Bot
+APP
+ — 04/18/2024 6:35 PM
+Submit Accepted [Game ID: 580]
+1st:@Intruz :Leto: Position: 2 43.9
+2nd:@Dennis Warhammer :Hundro: Position: 1 15.0
+3rd:@vaggelakos13 :Rhombur: Position: 3 -22.0
+4th:@Meynar :Ecaz: Position: 4 -36.9
+Dune Imperium Bot
+APP
+ — 04/18/2024 5:59 PM
+Submit Accepted [Game ID: 579]
+1st:@devzzzy :Ilban: Position: 2 32.8
+2nd:@IFreeMan :Tessia: Position: 4 -3.8
+3rd:@Lonk :Yuna: Position: 3 0.4
+4th:@BenitoMax :Leto: Position: 1 -29.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 5:04 PM
+Submit Accepted [Game ID: 578]
+1st:@Vigo :Memnon: Position: 1 21.2
+2nd:@rybachello :Yuna: Position: 3 23.5
+3rd:@crashtest776 :Hundro: Position: 2 -24.7
+4th:@Siroz26 :Helena: Position: 4 -20.0
+Dune Imperium Bot
+APP
+ — 04/18/2024 4:22 PM
+Submit Accepted [Game ID: 577]
+1st:@Benten :Tessia: Position: 4 28.3
+2nd:@IFreeMan :Leto: Position: 2 -0.2
+3rd:@nobody09 :Hundro: Position: 3 1.6
+4th:@M1X :Memnon: Position: 1 -29.7
+Dune Imperium Bot
+APP
+ — 04/18/2024 3:54 PM
+Submit Accepted [Game ID: 576]
+1st:@someproudly :Helena: Position: 1 45.7
+2nd:@Vigo :Ilesa: Position: 4 3.5
+3rd:@maxcobain :Beast: Position: 2 -23.2
+4th:@Martell :Ariana: Position: 3 -26.0
+Dune Imperium Bot
+APP
+ — 04/18/2024 2:39 PM
+Submit Accepted [Game ID: 575]
+1st:@franc :Hundro: Position: 1 50.7
+2nd:@maxcobain :Leto: Position: 4 -8.1
+3rd:@Martell :Rhombur: Position: 2 -12.6
+4th:@leonpie :Helena: Position: 3 -30.0
+Dune Imperium Bot
+APP
+ — 04/18/2024 1:40 PM
+Submit Accepted [Game ID: 574]
+1st:@Vigo :Hundro: Position: 2 38.3
+2nd:@Rosco :Ilesa: Position: 1 16.6
+3rd:@Martell :Leto: Position: 4 1.1
+4th:@emocat :Rhombur: Position: 3 -56.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 11:37 AM
+Submit Accepted [Game ID: 573]
+1st:@magethegathererrus :Baron: Position: 1 39.6
+2nd:@louis🏍🏍🏍 :Ecaz: Position: 3 -2.3
+3rd:@waata :Tessia: Position: 4 6.0
+4th:@Martell :Rhombur: Position: 2 -43.3
+Dune Imperium Bot
+APP
+ — 04/18/2024 10:03 AM
+Submit Accepted [Game ID: 572]
+1st:@darkdinner :Ilban: Position: 1 42.8
+2nd:@Red Bull Baron :Hundro: Position: 2 23.2
+3rd:@eliottjacques5 :Helena: Position: 4 -38.7
+4th:@Ponz47 :Paul: Position: 3 -27.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 8:38 AM
+Submit Accepted [Game ID: 571]
+1st:@eliottjacques5 :Rhombur: Position: 3 31.3
+2nd:@Ponz47 :Ecaz: Position: 1 43.2
+3rd:@h0wry0u :Leto: Position: 4 -12.2
+4th:@darkdinner :Tessia: Position: 2 -62.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 8:10 AM
+Submit Accepted [Game ID: 570]
+1st:@Taff_Live :Ilesa: Position: 4 61.1
+2nd:@davidli642 :Leto: Position: 1 1.7
+3rd:@Iscreaman :Memnon: Position: 2 -28.7
+4th:@dragalar :Ilban: Position: 3 -34.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 7:11 AM
+Submit Accepted [Game ID: 569]
+1st:@Yung Savage :Memnon: Position: 2 28.4
+2nd:@darkdinner :Ilban: Position: 4 7.0
+3rd:@Yooliss :Hundro: Position: 3 -7.6
+4th:@TheDrunkWizard :Yuna: Position: 1 -27.9
+Dune Imperium Bot
+APP
+ — 04/18/2024 6:21 AM
+Submit Accepted [Game ID: 568]
+1st:@justinbyun :Beast: Position: 4 19.3
+2nd:@tuananhtd :Leto: Position: 2 31.2
+3rd:@dragalar :Ecaz: Position: 1 -10.6
+4th:@Fatcats69 :Tessia: Position: 3 -39.9
+Dune Imperium Bot
+APP
+ — 04/18/2024 5:27 AM
+Submit Accepted [Game ID: 567]
+1st:@eliottjacques5 :Helena: Position: 4 42.4
+2nd:@Dennis Warhammer :Ilban: Position: 3 17.7
+3rd:@TeaMoney :Yuna: Position: 1 -31.0
+4th:@javea1 :Tessia: Position: 2 -29.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 3:52 AM
+Submit Accepted [Game ID: 566]
+1st:@royce :Paul: Position: 1 66.5
+2nd:@zafy :Ecaz: Position: 4 12.5
+3rd:@krompl :Ilesa: Position: 2 -19.3
+4th:@friachi :Hundro: Position: 3 -59.7
+Dune Imperium Bot
+APP
+ — 04/18/2024 2:57 AM
+Submit Accepted [Game ID: 565]
+1st:@friachi :Helena: Position: 4 53.1
+2nd:@krompl :Ilban: Position: 3 24.5
+3rd:@Yung Savage :Paul: Position: 2 -23.8
+4th:@zafy :Baron: Position: 1 -53.8
+Dune Imperium Bot
+APP
+ — 04/18/2024 1:41 AM
+Submit Accepted [Game ID: 564]
+1st:@Yung Savage :Ecaz: Position: 3 44.9
+2nd:@Mysterium :Ilban: Position: 1 11.7
+3rd:@zafy :Hundro: Position: 2 -30.1
+4th:@MikeAlfaXray :Baron: Position: 4 -26.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 1:24 AM
+Submit Accepted [Game ID: 563]
+1st:@Iscreaman :Paul: Position: 1 49.6
+2nd:@davidli642 :Tessia: Position: 4 8.3
+3rd:@krompl :Ecaz: Position: 2 -17.9
+4th:@Cabbage Cat :Leto: Position: 3 -40.0
+Dune Imperium Bot
+APP
+ — 04/18/2024 12:30 AM
+Submit Accepted [Game ID: 562]
+1st:@Vigo :Memnon: Position: 1 44.2
+2nd:@Thuney :Tessia: Position: 3 6.4
+3rd:@e_jasmins :Hundro: Position: 4 -8.8
+4th:@Teller :Paul: Position: 2 -41.7
+Dune Imperium Bot
+APP
+ — 04/18/2024 12:27 AM
+Submit Accepted [Game ID: 561]
+1st:@vintaya :Hundro: Position: 3 43.6
+2nd:@killer :Helena: Position: 2 24.3
+3rd:@eliottjacques5 :Ecaz: Position: 4 -40.4
+4th:@pan Jan :Ilban: Position: 1 -27.5
+Dune Imperium Bot
+APP
+ — 04/18/2024 12:25 AM
+Submit Accepted [Game ID: 560]
+1st:@tomski8857 :Helena: Position: 2 55.1
+2nd:@davidli642 :Hundro: Position: 3 0.1
+3rd:@Deus :Rhombur: Position: 1 -2.8
+4th:@cybervova :Ilban: Position: 4 -52.4
+Dune Imperium Bot
+APP
+ — 04/18/2024 12:11 AM
+Submit Accepted [Game ID: 559]
+1st:@contiuspilate :Beast: Position: 1 30.7
+2nd:@Yung Savage :Paul: Position: 4 10.9
+3rd:@Ajokli :Ilban: Position: 3 -3.5
+4th:@Franz :Yuna: Position: 2 -38.1
+Dune Imperium Bot
+APP
+ — 04/18/2024 12:02 AM
+Submit Accepted [Game ID: 558]
+1st:@devzzzy :Baron: Position: 3 29.0
+2nd:@Zelbot :Rhombur: Position: 1 13.3
+3rd:@asat0r :Helena: Position: 4 2.4
+4th:@dromprinzen :Ecaz: Position: 2 -44.7
+Dune Imperium Bot
+APP
+ — 04/17/2024 11:00 PM
+Submit Accepted [Game ID: 557]
+1st:@Woerdistan :Ariana: Position: 1 41.8
+2nd:@Thuney :Helena: Position: 4 25.6
+3rd:@MikeAlfaXray :Beast: Position: 2 0.8
+4th:@davidli642 :Baron: Position: 3 -68.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:57 PM
+Submit Accepted [Game ID: 556]
+1st:@justinbyun :Hundro: Position: 3 24.2
+2nd:@e_jasmins :Baron: Position: 2 34.7
+3rd:@Ajokli :Tessia: Position: 4 -15.8
+4th:@Teller :Yuna: Position: 1 -43.1
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:38 PM
+Submit Accepted [Game ID: 555]
+1st:@lilgreenghouls :Ecaz: Position: 3 35.1
+2nd:@Franz :Ilban: Position: 1 9.6
+3rd:@Lonk :Paul: Position: 2 -19.5
+4th:@leonpie :Rhombur: Position: 4 -25.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:30 PM
+Submit Accepted [Game ID: 554]
+1st:@dragalar :Ilban: Position: 3 65.1
+2nd:@devzzzy :Baron: Position: 2 -6.1
+3rd:@Vigo :Ecaz: Position: 4 -18.4
+4th:@masa :Beast: Position: 1 -40.6
+Dune Imperium Bot
+APP
+ — 04/17/2024 9:54 PM
+Submit Accepted [Game ID: 553]
+1st:@BooKKeeper :Baron: Position: 1 61.2
+2nd:@Woerdistan :Rhombur: Position: 2 9.0
+3rd:@justinbyun :Ilban: Position: 3 -40.8
+4th:@e_jasmins :Helena: Position: 4 -29.5
+Dune Imperium Bot
+APP
+ — 04/17/2024 9:11 PM
+Submit Accepted [Game ID: 552]
+1st:@lilgreenghouls :Beast: Position: 2 49.1
+2nd:@Franz :Helena: Position: 4 18.5
+3rd:@Chimamamanda :Yuna: Position: 1 -11.4
+4th:@Lonk :Ecaz: Position: 3 -56.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 8:29 PM
+Submit Accepted [Game ID: 551]
+1st:@justinbyun :Rhombur: Position: 1 11.9
+2nd:@leonpie :Tessia: Position: 3 32.6
+3rd:@Kestas :Ecaz: Position: 2 -23.5
+4th:@Sweetsale90 :Helena: Position: 4 -20.9
+Dune Imperium Bot
+APP
+ — 04/17/2024 8:01 PM
+Submit Accepted [Game ID: 550]
+1st:@Bananadogg :Beast: Position: 3 58.4
+2nd:@killer :Ariana: Position: 1 32.8
+3rd:@goetz :Ecaz: Position: 2 -22.5
+4th:@Thuney :Tessia: Position: 4 -68.7
+Dune Imperium Bot
+APP
+ — 04/17/2024 7:49 PM
+Submit Accepted [Game ID: 549]
+1st:@Franz :Helena: Position: 4 62.4
+2nd:@Vigo :Ecaz: Position: 3 16.4
+3rd:@vaggelakos13 :Yuna: Position: 1 -28.9
+4th:@crashtest776 :Baron: Position: 2 -49.9
+Dune Imperium Bot
+APP
+ — 04/17/2024 7:39 PM
+Submit Accepted [Game ID: 548]
+1st:@eliottjacques5 :Ecaz: Position: 4 44.3
+2nd:@Yooliss :Rhombur: Position: 1 30.9
+3rd:@Ideel :Hundro: Position: 3 -35.3
+4th:@e_jasmins :Ilban: Position: 2 -40.0
+Dune Imperium Bot
+APP
+ — 04/17/2024 6:58 PM
+Submit Accepted [Game ID: 547]
+1st:@someproudly :Ariana: Position: 4 47.1
+2nd:@justinbyun :Hundro: Position: 1 -16.9
+3rd:@KPrimov :Baron: Position: 2 -14.9
+4th:@Sweetsale90 :Ecaz: Position: 3 -15.3
+Dune Imperium Bot
+APP
+ — 04/17/2024 6:17 PM
+Submit Accepted [Game ID: 546]
+1st:@maxcobain :Ariana: Position: 3 66.1
+2nd:@IFreeMan :Ilban: Position: 1 0.7
+3rd:@Ideel :Baron: Position: 4 -26.4
+4th:@crashtest776 :Hundro: Position: 2 -40.3
+Dune Imperium Bot
+APP
+ — 04/17/2024 5:47 PM
+Submit Accepted [Game ID: 545]
+1st:@Vigo :Hundro: Position: 2 53.7
+2nd:@franc :Ariana: Position: 3 36.3
+3rd:@eliottjacques5 :Ilban: Position: 4 -31.6
+4th:@nobody09 :Baron: Position: 1 -58.4
+Dune Imperium Bot
+APP
+ — 04/17/2024 5:13 PM
+Submit Accepted [Game ID: 544]
+1st:@Ideel :Ecaz: Position: 4 32.4
+2nd:@Thuney :Ariana: Position: 1 10.5
+3rd:@louis🏍🏍🏍 :Leto: Position: 3 -26.9
+4th:@leonpie :Yuna: Position: 2 -15.9
+Dune Imperium Bot
+APP
+ — 04/17/2024 4:35 PM
+Submit Accepted [Game ID: 543]
+1st:@Benten :Tessia: Position: 4 22.3
+2nd:@Zelbot :Rhombur: Position: 3 18.4
+3rd:@Vigo :Ilesa: Position: 1 -2.5
+4th:@Martell :Leto: Position: 2 -38.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 4:27 PM
+Submit Accepted [Game ID: 542]
+1st:@IFreeMan :Tessia: Position: 4 24.3
+2nd:@crashtest776 :Rhombur: Position: 3 11.8
+3rd:@MortimerSmith :Ecaz: Position: 1 -2.9
+4th:@lannister2005 :Ariana: Position: 2 -33.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 3:30 PM
+Submit Accepted [Game ID: 541]
+1st:@emocat :Ecaz: Position: 1 50.9
+2nd:@Martell :Leto: Position: 4 25.6
+3rd:@Zelbot :Hundro: Position: 3 -23.2
+4th:@someproudly :Baron: Position: 2 -53.4
+Dune Imperium Bot
+APP
+ — 04/17/2024 3:07 PM
+Submit Accepted [Game ID: 540]
+1st:@IFreeMan :Leto: Position: 3 33.5
+2nd:@Benten :Baron: Position: 4 -8.3
+3rd:@smoati9ap :Memnon: Position: 1 15.6
+4th:@Vigo :Rhombur: Position: 2 -40.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 2:27 PM
+Submit Accepted [Game ID: 539]
+1st:@rybas_h3 :Helena: Position: 4 26.0
+2nd:@goetz :Tessia: Position: 1 36.6
+3rd:@nobody09 :Baron: Position: 2 -12.1
+4th:@Zelbot :Ilban: Position: 3 -50.5
+Dune Imperium Bot
+APP
+ — 04/17/2024 2:03 PM
+Submit Accepted [Game ID: 538]
+1st:@Narballs :Tessia: Position: 3 65.0
+2nd:@Vigo :Yuna: Position: 2 29.8
+3rd:@someproudly :Helena: Position: 4 -15.9
+4th:@zafy :Ilban: Position: 1 -78.9
+Dune Imperium Bot
+APP
+ — 04/17/2024 1:23 PM
+Submit Accepted [Game ID: 537]
+1st:@Rosco :Ariana: Position: 4 65.3
+2nd:@IFreeMan :Baron: Position: 2 -1.5
+3rd:@Franz :Yuna: Position: 3 1.2
+4th:@Thuney :Helena: Position: 1 -65.1
+Dune Imperium Bot
+APP
+ — 04/17/2024 12:35 PM
+Submit Accepted [Game ID: 536]
+1st:@zafy :Ilban: Position: 3 22.6
+2nd:@louis🏍🏍🏍 :Tessia: Position: 1 14.1
+3rd:@emocat :Baron: Position: 2 -1.4
+4th:@Vigo :Ecaz: Position: 4 -35.3
+Dune Imperium Bot
+APP
+ — 04/17/2024 12:15 PM
+Submit Accepted [Game ID: 535]
+1st:@CrazyApple :Ilesa: Position: 1 25.5
+2nd:@Zelbot :Ilban: Position: 4 10.0
+3rd:@killer :Leto: Position: 2 14.8
+4th:@mooshow :Rhombur: Position: 3 -50.3
+Dune Imperium Bot
+APP
+ — 04/17/2024 11:58 AM
+Submit Accepted [Game ID: 534]
+1st:@Fenderico :Memnon: Position: 2 57.1
+2nd:@Thuney :Ariana: Position: 4 -1.0
+3rd:@Ajokli :Ilesa: Position: 1 -15.3
+4th:@Fatcats69 :Paul: Position: 3 -40.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 11:32 AM
+Submit Accepted [Game ID: 533]
+1st:@IFreeMan :Yuna: Position: 2 23.1
+2nd:@Vigo :Helena: Position: 3 10.5
+3rd:@waata :Paul: Position: 1 5.2
+4th:@franc :Ilban: Position: 4 -38.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:58 AM
+Submit Accepted [Game ID: 532]
+1st:@CrazyApple :Rhombur: Position: 2 30.1
+2nd:@magethegathererrus :Leto: Position: 3 27.4
+3rd:@Zelbot :Beast: Position: 4 -25.8
+4th:@Franz :Baron: Position: 1 -31.6
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:16 AM
+Submit Accepted [Game ID: 531]
+1st:@davidli642 :Hundro: Position: 2 34.2
+2nd:@Cabbage Cat :Leto: Position: 4 28.2
+3rd:@Dennis Warhammer :Baron: Position: 1 -5.4
+4th:@Iscreaman :Paul: Position: 3 -57.0
+Dune Imperium Bot
+APP
+ — 04/17/2024 10:14 AM
+Submit Accepted [Game ID: 530]
+1st:@darkdinner :Leto: Position: 1 50.9
+2nd:@IFreeMan :Hundro: Position: 2 4.3
+3rd:@Thuney :Beast: Position: 3 -37.5
+4th:@Ponz47 :Paul: Position: 4 -17.7
+Dune Imperium Bot
+APP
+ — 04/17/2024 9:39 AM
+Submit Accepted [Game ID: 529]
+1st:@CrazyApple :Ecaz: Position: 3 36.5
+2nd:@Fatcats69 :Beast: Position: 1 30.3
+3rd:@davidli642 :Hundro: Position: 4 -38.1
+4th:@dragalar :Helena: Position: 2 -28.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 8:02 AM
+Submit Accepted [Game ID: 528]
+1st:@davidli642 :Hundro: Position: 2 35.9
+2nd:@Cabbage Cat :Leto: Position: 4 35.1
+3rd:@Dennis Warhammer :Baron: Position: 1 -5.0
+4th:@Iscreaman :Paul: Position: 3 -66.0
+Dune Imperium Bot
+APP
+ — 04/17/2024 7:07 AM
+Submit Accepted [Game ID: 527]
+1st:@DAPA :Beast: Position: 4 34.4
+2nd:@Yooliss :Yuna: Position: 1 24.4
+3rd:@TheDrunkWizard :Hundro: Position: 3 -5.7
+4th:@dragalar :Memnon: Position: 2 -53.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 4:11 AM
+Submit Accepted [Game ID: 526]
+1st:@friachi :Helena: Position: 1 33.3
+2nd:@krompl :Ariana: Position: 4 -4.4
+3rd:@Giegling :Hundro: Position: 3 6.9
+4th:@lux :Rhombur: Position: 2 -35.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 1:59 AM
+Submit Accepted [Game ID: 525]
+1st:@zafy :Paul: Position: 1 21.0
+2nd:@leonpie :Beast: Position: 2 46.5
+3rd:@davidli642 :Leto: Position: 4 -40.8
+4th:@Giegling :Tessia: Position: 3 -26.8
+Dune Imperium Bot
+APP
+ — 04/17/2024 1:34 AM
+Submit Accepted [Game ID: 524]
+1st:@Teller :Ecaz: Position: 4 66.9
+2nd:@justinbyun :Yuna: Position: 3 -11.0
+3rd:@krompl :Ilban: Position: 1 -27.8
+4th:@lux :Leto: Position: 2 -28.2
+Dune Imperium Bot
+APP
+ — 04/17/2024 12:07 AM
+Submit Accepted [Game ID: 523]
+1st:@Barry Bandit :Ariana: Position: 1 69.9
+2nd:@zafy :Baron: Position: 2 -10.0
+3rd:@Woerdistan :Helena: Position: 4 -26.3
+4th:@slineur :Tessia: Position: 3 -33.7
+Dune Imperium Bot
+APP
+ — 04/17/2024 12:05 AM
+Submit Accepted [Game ID: 522]
+1st:@asat0r :Helena: Position: 1 55.1
+2nd:@Ajokli :Ecaz: Position: 2 -7.3
+3rd:@Giegling :Yuna: Position: 3 -8.1
+4th:@pan Jan :Ilban: Position: 4 -39.7
+Dune Imperium Bot
+APP
+ — 04/16/2024 11:44 PM
+Submit Accepted [Game ID: 521]
+1st:@IFreeMan :Ilban: Position: 3 50.8
+2nd:@krompl :Tessia: Position: 4 9.8
+3rd:@Zelbot :Helena: Position: 1 -27.3
+4th:@Franz :Yuna: Position: 2 -33.3
+Dune Imperium Bot
+APP
+ — 04/16/2024 11:13 PM
+Submit Accepted [Game ID: 520]
+1st:@rybas_h3 :Hundro: Position: 3 25.0
+2nd:@Thuney :Baron: Position: 4 -5.6
+3rd:@Boljedor :Paul: Position: 1 -7.1
+4th:@Sweetsale90 :Ariana: Position: 2 -12.2
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:45 PM
+Submit Accepted [Game ID: 519]
+1st:@e_jasmins :Baron: Position: 4 69.8
+2nd:@Ideel :Beast: Position: 1 0.8
+3rd:@Vigo :Hundro: Position: 3 -9.1
+4th:@IFreeMan :Tessia: Position: 2 -61.5
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:39 PM
+Submit Accepted [Game ID: 518]
+1st:@Zelbot :Baron: Position: 3 39.5
+2nd:@IASC :Yuna: Position: 1 8.0
+3rd:@masa :Leto: Position: 2 -1.3
+4th:@VIVAFRESHAS :Tessia: Position: 4 -46.2
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:19 PM
+Submit Accepted [Game ID: 517]
+1st:@Lonk :Ariana: Position: 4 41.9
+2nd:@Red Bull Baron :Hundro: Position: 3 26.1
+3rd:@lilgreenghouls :Yuna: Position: 1 -24.9
+4th:@bonda :Tessia: Position: 2 -43.0
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:01 PM
+Submit Accepted [Game ID: 516]
+1st:@Yooliss :Hundro: Position: 2 73.8
+2nd:@rybas_h3 :Paul: Position: 1 -13.6
+3rd:@dragalar :Baron: Position: 4 -16.1
+4th:@tester :Ariana: Position: 3 -44.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:28 PM
+Submit Accepted [Game ID: 515]
+1st:@Vigo :Ecaz: Position: 4 72.1
+2nd:@IFreeMan :Beast: Position: 1 9.9
+3rd:@Ideel :Hundro: Position: 3 -30.8
+4th:@Ajokli :Leto: Position: 2 -51.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:17 PM
+Submit Accepted [Game ID: 514]
+1st:@darkdinner :Ilban: Position: 2 52.8
+2nd:@Franz :Beast: Position: 4 20.0
+3rd:@crashtest776 :Paul: Position: 3 -31.2
+4th:@Max :Rhombur: Position: 1 -41.6
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:05 PM
+Submit Accepted [Game ID: 513]
+1st:@nobody09 :Rhombur: Position: 4 31.0
+2nd:@Bananadogg :Leto: Position: 1 26.7
+3rd:@e_jasmins :Helena: Position: 3 -15.1
+4th:@Giegling :Baron: Position: 2 -42.6
+Dune Imperium Bot
+APP
+ — 04/16/2024 8:21 PM
+Submit Accepted [Game ID: 512]
+1st:@IASC :Ecaz: Position: 4 39.1
+2nd:@Zelbot :Hundro: Position: 2 0.0
+3rd:@MarX :Leto: Position: 3 -9.4
+4th:@rybachello :Yuna: Position: 1 -29.7
+Dune Imperium Bot
+APP
+ — 04/16/2024 6:57 PM
+Submit Accepted [Game ID: 511]
+1st:@justinbyun :Ariana: Position: 3 19.6
+2nd:@goetz :Helena: Position: 4 26.2
+3rd:@crashtest776 :Ilesa: Position: 2 -32.1
+4th:@Siroz26 :Paul: Position: 1 -13.7
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:56 PM
+Submit Accepted [Game ID: 510]
+1st:@Woerdistan :Helena: Position: 4 55.5
+2nd:@Benten :Yuna: Position: 1 -1.1
+3rd:@eliottjacques5 :Memnon: Position: 3 -13.2
+4th:@nobody09 :Hundro: Position: 2 -41.2
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:41 PM
+Submit Accepted [Game ID: 509]
+1st:@april :Ilesa: Position: 1 48.9
+2nd:@ball :Beast: Position: 2 11.1
+3rd:@In Flames :Rhombur: Position: 3 -2.9
+4th:@M1X :Paul: Position: 4 -57.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:18 PM
+Submit Accepted [Game ID: 508]
+1st:@zafy :Hundro: Position: 1 22.5
+2nd:@IFreeMan :Baron: Position: 3 4.9
+3rd:@busyazaya :Helena: Position: 2 1.7
+4th:@bartosz546 :Ilban: Position: 4 -29.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:18 PM
+Submit Accepted [Game ID: 507]
+1st:@louis🏍🏍🏍 :Hundro: Position: 2 37.2
+2nd:@Zelbot :Helena: Position: 4 -3.1
+3rd:@asat0r :Baron: Position: 1 5.7
+4th:@Giegling :Leto: Position: 3 -39.8
+Dune Imperium Bot
+APP
+ — 04/16/2024 4:18 PM
+Submit Accepted [Game ID: 506]
+1st:@zafy :Ariana: Position: 1 25.8
+2nd:@IFreeMan :Hundro: Position: 4 5.7
+3rd:@goetz :Beast: Position: 2 2.1
+4th:@bartosz546 :Yuna: Position: 3 -33.6
+Dune Imperium Bot
+APP
+ — 04/16/2024 3:47 PM
+Submit Accepted [Game ID: 505]
+1st:@emocat :Baron: Position: 4 60.0
+2nd:@Zelbot :Ilban: Position: 3 -1.4
+3rd:@kwisatz99 :Ariana: Position: 1 -27.7
+4th:@Bananadogg :Paul: Position: 2 -31.0
+Dune Imperium Bot
+APP
+ — 04/16/2024 2:55 PM
+Submit Accepted [Game ID: 504]
+1st:@someproudly :Baron: Position: 1 32.9
+2nd:@kwisatz99 :Helena: Position: 4 -7.8
+3rd:@waata :Tessia: Position: 2 -1.1
+4th:@Siroz26 :Ecaz: Position: 3 -24.0
+Dune Imperium Bot
+APP
+ — 04/16/2024 2:16 PM
+Submit Accepted [Game ID: 503]
+1st:@zafy :Beast: Position: 2 28.4
+2nd:@magethegathererrus :Paul: Position: 1 28.3
+3rd:@dinosmaroulis :Yuna: Position: 4 -20.9
+4th:@Rosco :Tessia: Position: 3 -35.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 1:44 PM
+Submit Accepted [Game ID: 502]
+1st:@IFreeMan :Ecaz: Position: 2 27.9
+2nd:@BenitoMax :Tessia: Position: 3 18.3
+3rd:@Vigo :Helena: Position: 4 -14.0
+4th:@waata :Paul: Position: 1 -32.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 1:19 PM
+Submit Accepted [Game ID: 501]
+1st:@Zelbot :Beast: Position: 2 35.1
+2nd:@ADIBOU :Ariana: Position: 4 25.6
+3rd:@tester :Leto: Position: 1 -16.5
+4th:@emocat :Hundro: Position: 3 -44.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 12:38 PM
+Submit Accepted [Game ID: 500]
+1st:@Woerdistan :Ecaz: Position: 4 38.4
+2nd:@BenitoMax :Ariana: Position: 1 27.8
+3rd:@kourepai :Beast: Position: 2 -1.9
+4th:@IFreeMan :Baron: Position: 3 -64.4
+Dune Imperium Bot
+APP
+ — 04/16/2024 12:32 PM
+Submit Accepted [Game ID: 498]
+1st:@someproudly :Ilban: Position: 4 49.5
+2nd:@Ajokli :Leto: Position: 1 -4.6
+3rd:@Vigo :Helena: Position: 3 -12.2
+4th:@asat0r :Memnon: Position: 2 -32.7
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:59 AM
+Submit Accepted [Game ID: 497]
+1st:@Zelbot :Rhombur: Position: 1 53.5
+2nd:@rybas_h3 :Baron: Position: 2 -9.8
+3rd:@dinosmaroulis :Ilesa: Position: 4 -21.4
+4th:@waata :Tessia: Position: 3 -22.3
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:33 AM
+Submit Accepted [Game ID: 496]
+1st:@justinbyun :Ecaz: Position: 3 40.5
+2nd:@IFreeMan :Baron: Position: 2 14.3
+3rd:@Vigo :Memnon: Position: 1 11.5
+4th:@Ideel :Ariana: Position: 4 -66.3
+Dune Imperium Bot
+APP
+ — 04/16/2024 10:28 AM
+Submit Accepted [Game ID: 495]
+1st:@darkdinner :Hundro: Position: 2 47.2
+2nd:@Red Bull Baron :Ariana: Position: 4 19.3
+3rd:@ADIBOU :Tessia: Position: 3 -25.6
+4th:@Ponz47 :Ilesa: Position: 1 -40.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:49 AM
+Submit Accepted [Game ID: 494]
+1st:@kwisatz99 :Beast: Position: 4 41.5
+2nd:@Zelbot :Helena: Position: 3 16.2
+3rd:@magethegathererrus :Ilban: Position: 1 -10.8
+4th:@Narballs :Baron: Position: 2 -46.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:27 AM
+Submit Accepted [Game ID: 493]
+1st:@M1X :Helena: Position: 2 37.0
+2nd:@goetz :Yuna: Position: 1 22.2
+3rd:@Ponz47 :Ariana: Position: 4 -5.3
+4th:@darkdinner :Hundro: Position: 3 -53.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 9:07 AM
+Submit Accepted [Game ID: 492]
+1st:@Mirru :Hundro: Position: 2 48.0
+2nd:@dragalar :Baron: Position: 1 10.9
+3rd:@Electrickery :Ilban: Position: 3 -16.0
+4th:@Red Bull Baron :Ariana: Position: 4 -42.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 7:28 AM
+Submit Accepted [Game ID: 491]
+1st:@davidli642 :Leto: Position: 2 37.2
+2nd:@Benten :Ecaz: Position: 4 -2.7
+3rd:@HueyLongNewton :Tessia: Position: 1 -1.6
+4th:@darkdinner :Ilban: Position: 3 -33.0
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:54 AM
+Submit Accepted [Game ID: 490]
+1st:@davidli642 :Hundro: Position: 3 18.6
+2nd:@Yooliss :Yuna: Position: 2 39.1
+3rd:@TheDrunkWizard :Helena: Position: 1 -10.6
+4th:@Ronin :Ecaz: Position: 4 -47.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 5:18 AM
+Submit Accepted [Game ID: 489]
+1st:@friachi :Memnon: Position: 2 36.3
+2nd:@javea1 :Yuna: Position: 1 29.2
+3rd:@SpiceNav :Helena: Position: 4 -12.2
+4th:@Wooklee :Ilesa: Position: 3 -53.2
+Dune Imperium Bot
+APP
+ — 04/16/2024 4:24 AM
+Submit Accepted [Game ID: 488]
+1st:@zafy :Ilban: Position: 3 46.7
+2nd:@davidli642 :Leto: Position: 1 9.2
+3rd:@krompl :Yuna: Position: 2 -23.1
+4th:@DjPonyboots :Baron: Position: 4 -32.9
+Dune Imperium Bot
+APP
+ — 04/16/2024 3:25 AM
+Submit Accepted [Game ID: 487]
+1st:@krompl :Ilesa: Position: 1 40.2
+2nd:@DjPonyboots :Yuna: Position: 3 27.5
+3rd:@davidli642 :Tessia: Position: 2 -36.1
+4th:@DROGIRANOPILE :Ilban: Position: 4 -31.7
+Dune Imperium Bot
+APP
+ — 04/16/2024 2:44 AM
+Submit Accepted [Game ID: 486]
+1st:@Iscreaman :Ariana: Position: 3 32.5
+2nd:@zafy :Ecaz: Position: 4 12.6
+3rd:@Vigo :Hundro: Position: 2 6.0
+4th:@kwisatz99 :Tessia: Position: 1 -51.1
+Dune Imperium Bot
+APP
+ — 04/16/2024 1:29 AM
+Submit Accepted [Game ID: 485]
+1st:@Thuney :Helena: Position: 4 29.0
+2nd:@zafy :Yuna: Position: 3 8.6
+3rd:@asat0r :Ilban: Position: 1 9.2
+4th:@Wooklee :Ariana: Position: 2 -46.8
+Dune Imperium Bot
+APP
+ — 04/16/2024 1:10 AM
+Submit Accepted [Game ID: 484]
+1st:@aaaaKIRILL_KIRILL_KIRILL_KIRILL_ :Rhombur: Position: 1 48.3
+2nd:@friachi :Ariana: Position: 2 8.8
+3rd:@Vasya :Baron: Position: 3 -5.7
+4th:@Vigo :Tessia: Position: 4 -51.4
+Dune Imperium Bot
+APP
+ — 04/16/2024 12:10 AM
+Submit Accepted [Game ID: 483]
+1st:@zafy :Baron: Position: 1 35.6
+2nd:@Wooklee :Ecaz: Position: 2 7.6
+3rd:@BenitoMax :Ariana: Position: 4 -5.3
+4th:@asat0r :Helena: Position: 3 -38.0
+Dune Imperium Bot
+APP
+ — 04/15/2024 11:52 PM
+Submit Accepted [Game ID: 482]
+1st:@bonda :Ariana: Position: 4 68.9
+2nd:@Thuney :Beast: Position: 3 -8.2
+3rd:@e_jasmins :Rhombur: Position: 1 -3.0
+4th:@darkdinner :Ilban: Position: 2 -57.7
+Dune Imperium Bot
+APP
+ — 04/15/2024 11:50 PM
+Submit Accepted [Game ID: 481]
+1st:@rybas_h3 :Beast: Position: 1 20.5
+2nd:@nobody09 :Ariana: Position: 3 8.2
+3rd:@bartosz546 :Ilban: Position: 2 -7.8
+4th:@Verča Liška :Hundro: Position: 4 -21.0
+Dune Imperium Bot
+APP
+ — 04/15/2024 11:36 PM
+Submit Accepted [Game ID: 480]
+1st:@eliottjacques5 :Rhombur: Position: 1 43.6
+2nd:@VIVAFRESHAS :Beast: Position: 2 15.5
+3rd:@Vigo :Ilesa: Position: 3 -11.9
+4th:@Franz :Ariana: Position: 4 -47.2
+Dune Imperium Bot
+APP
+ — 04/15/2024 10:30 PM
+Submit Accepted [Game ID: 479]
+1st:@Thuney :Yuna: Position: 2 29.8
+2nd:@e_jasmins :Ilban: Position: 4 36.0
+3rd:@BenitoMax :Rhombur: Position: 1 0.8
+4th:@darkdinner :Leto: Position: 3 -66.6
+Dune Imperium Bot
+APP
+ — 04/15/2024 10:13 PM
+Submit Accepted [Game ID: 478]
+1st:@Ideel :Tessia: Position: 4 26.5
+2nd:@Mysterium :Ariana: Position: 3 9.0
+3rd:@Vigo :Ilesa: Position: 1 -4.6
+4th:@Giegling :Ilban: Position: 2 -30.9
+Dune Imperium Bot
+APP
+ — 04/15/2024 10:10 PM
+Submit Accepted [Game ID: 477]
+1st:@bartosz546 :Leto: Position: 2 56.0
+2nd:@khisanthas :Helena: Position: 4 6.9
+3rd:@In Flames :Beast: Position: 1 -12.1
+4th:@Vasya :Ilban: Position: 3 -50.8
+Dune Imperium Bot
+APP
+ — 04/15/2024 9:15 PM
+Submit Accepted [Game ID: 476]
+1st:@goetz :Ilban: Position: 3 47.7
+2nd:@Vigo :Ilesa: Position: 2 -9.4
+3rd:@vin1987123 :Baron: Position: 4 2.1
+4th:@leonpie :Yuna: Position: 1 -40.4
+Dune Imperium Bot
+APP
+ — 04/15/2024 8:38 PM
+Submit Accepted [Game ID: 475]
+1st:@Benten :Memnon: Position: 2 16.1
+2nd:@lux :Ilban: Position: 3 30.1
+3rd:@e_jasmins :Beast: Position: 4 -2.7
+4th:@bartosz546 :Yuna: Position: 1 -43.5
+Dune Imperium Bot
+APP
+ — 04/15/2024 8:31 PM
+Submit Accepted [Game ID: 474]
+1st:@dinosmaroulis :Ilesa: Position: 1 33.3
+2nd:@eliottjacques5 :Ariana: Position: 2 1.7
+3rd:@Siroz26 :Tessia: Position: 3 14.8
+4th:@IcarusNatusPugnam#9425 :Rhombur: Position: 4 -49.7
+Dune Imperium Bot
+APP
+ — 04/15/2024 7:42 PM
+Submit Accepted [Game ID: 473]
+1st:@Vigo :Ilesa: Position: 4 66.4
+2nd:@rybas_h3 :Beast: Position: 3 -7.2
+3rd:@Lonk :Paul: Position: 1 -8.7
+4th:@lilgreenghouls :Yuna: Position: 2 -50.6
+Dune Imperium Bot
+APP
+ — 04/15/2024 7:41 PM
+Submit Accepted [Game ID: 472]
+1st:@IASC :Yuna: Position: 1 44.0
+2nd:@nobody09 :Beast: Position: 3 4.6
+3rd:@Giegling :Tessia: Position: 4 -14.9
+4th:@bonda :Helena: Position: 2 -33.7
+Dune Imperium Bot
 BOT
  — Today at 6:58 PM
 Submit Accepted [Game ID: 471]
@@ -2654,14 +3942,6 @@ Submit Accepted [Game ID: 133]
 2nd:@goetz :Beast: Position: 2 33.9
 3rd:@Yung Savage :Ilesa: Position: 3 -24.2
 4th:@Ugotfranked :Ilban: Position: 4 -34.4
-Dune Imperium Bot
-BOT
- — 04/05/2024 7:43 PM
-Submit Accepted [Game ID: 132]
-1st:@Ideel :Hundro: Position: 3 29.5
-2nd:@goetz :Beast: Position: 2 40.1
-3rd:@Yung Savage :Ilesa: Position: 1 -28.7
-4th:@Ugotfranked :Ilban: Position: 4 -40.9
 Dune Imperium Bot
 BOT
  — 04/05/2024 7:30 PM
