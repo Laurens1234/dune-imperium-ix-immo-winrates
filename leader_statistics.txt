@@ -2,144 +2,144 @@
 Leader Statistics:
           Win Rate  Total Games  Average Ending Position
 Leader                                                  
-Memnon   38.775510           49                 2.285714
-Ilesa    33.333333          102                 2.362745
-Ariana   29.756098          205                 2.336585
-Hundro   29.276316          304                 2.358553
-Baron    27.931034          290                 2.420690
-Tessia   27.777778          216                 2.337963
-Beast    26.181818          275                 2.356364
-Ilban    25.384615          260                 2.511538
-Ecaz     24.803150          254                 2.511811
-Rhombur  24.630542          203                 2.561576
-Yuna     20.329670          182                 2.659341
-Helena   17.509728          257                 2.750973
-Leto     17.452830          212                 2.698113
-Paul     17.419355          155                 2.787097
+Memnon   38.805970           67                 2.313433
+Ilesa    32.231405          121                 2.330579
+Ariana   31.060606          264                 2.299242
+Tessia   28.787879          264                 2.337121
+Hundro   28.021978          364                 2.387363
+Baron    27.272727          352                 2.448864
+Rhombur  26.446281          242                 2.533058
+Beast    26.139818          329                 2.340426
+Ilban    25.077399          323                 2.498452
+Ecaz     24.104235          307                 2.517915
+Yuna     20.175439          228                 2.653509
+Leto     17.898833          257                 2.704280
+Paul     17.582418          182                 2.774725
+Helena   16.987179          312                 2.788462
 
 Leader and Starting Position Statistics:
                             Win Rate  Total Games  Average Ending Position
 Leader  Starting Position                                                 
-Memnon  2                  53.846154           13                 2.000000
-Ilesa   1                  47.368421           38                 2.105263
-Baron   1                  45.762712           59                 2.084746
-Memnon  3                  40.000000            5                 2.200000
-        1                  40.000000           25                 2.280000
-Hundro  1                  39.705882           68                 2.029412
-Ariana  1                  39.534884           43                 2.116279
-Ilesa   4                  38.461538           13                 2.153846
-Tessia  1                  36.206897           58                 2.172414
-Beast   1                  35.849057           53                 2.169811
-Hundro  2                  33.944954          109                 2.220183
-Ilban   3                  32.500000           80                 2.375000
-        1                  32.500000           40                 2.300000
-Ariana  4                  31.746032           63                 2.428571
-Tessia  4                  31.578947           57                 2.385965
-Ecaz    1                  30.612245           49                 2.428571
-Ilesa   3                  30.434783           23                 2.478261
-Rhombur 3                  29.545455           44                 2.386364
-        1                  29.032258           62                 2.451613
-Baron   4                  28.571429           70                 2.514286
-Ecaz    3                  28.571429           70                 2.500000
-Beast   2                  27.777778           72                 2.333333
-Ecaz    2                  26.829268           41                 2.463415
-Leto    1                  26.785714           56                 2.464286
-Yuna    2                  26.562500           64                 2.625000
-Ariana  3                  25.925926           54                 2.296296
-Hundro  3                  23.762376          101                 2.514851
-Tessia  3                  23.529412           51                 2.352941
-Baron   2                  23.333333           90                 2.377778
-Beast   3                  22.807018           57                 2.298246
-Helena  1                  22.448980           49                 2.632653
-Leto    2                  22.413793           58                 2.413793
-Ariana  2                  22.222222           45                 2.466667
-Beast   4                  21.505376           93                 2.516129
-Paul    1                  21.212121           66                 2.606061
-Rhombur 4                  21.052632           38                 2.657895
-Ilban   4                  20.202020           99                 2.666667
-Yuna    1                  20.000000           75                 2.626667
-Paul    3                  18.918919           37                 2.810811
-Rhombur 2                  18.644068           59                 2.745763
-Baron   3                  18.309859           71                 2.661972
-Ecaz    4                  18.085106           94                 2.585106
-Tessia  2                  18.000000           50                 2.460000
-Helena  2                  17.500000           40                 2.650000
-        4                  17.171717           99                 2.787879
-Ilban   2                  17.073171           41                 2.609756
-Yuna    3                  16.666667           30                 2.600000
-Paul    2                  16.129032           31                 2.870968
-Helena  3                  14.492754           69                 2.840580
-Ilesa   2                  14.285714           28                 2.714286
-Leto    3                  12.244898           49                 2.918367
-        4                   6.122449           49                 3.081633
-Paul    4                   4.761905           21                 3.190476
-Hundro  4                   3.846154           26                 3.192308
+Memnon  2                  56.250000           16                 1.937500
+Ilesa   1                  46.666667           45                 2.066667
+Baron   1                  45.945946           74                 2.067568
+Ariana  1                  41.379310           58                 2.086207
+Hundro  1                  40.789474           76                 2.000000
+Tessia  1                  40.000000           65                 2.107692
+Memnon  1                  37.837838           37                 2.351351
+        3                  37.500000            8                 2.375000
+Beast   1                  33.333333           60                 2.216667
+Ilesa   4                  33.333333           15                 2.400000
+Ilban   1                  32.692308           52                 2.250000
+Ariana  4                  32.500000           80                 2.362500
+Rhombur 1                  31.506849           73                 2.438356
+Ilesa   3                  29.629630           27                 2.407407
+Ilban   3                  29.591837           98                 2.448980
+Hundro  2                  29.411765          136                 2.301471
+Ecaz    3                  29.069767           86                 2.476744
+Tessia  4                  28.767123           73                 2.424658
+Beast   2                  28.571429           91                 2.274725
+Leto    1                  28.358209           67                 2.447761
+Rhombur 3                  26.415094           53                 2.452830
+Ecaz    1                  26.153846           65                 2.553846
+        2                  26.086957           46                 2.456522
+Ariana  3                  25.675676           74                 2.310811
+Rhombur 4                  25.581395           43                 2.604651
+Tessia  3                  25.000000           64                 2.406250
+Ariana  2                  25.000000           52                 2.423077
+Baron   4                  24.705882           85                 2.635294
+Hundro  3                  23.076923          117                 2.555556
+Yuna    2                  22.619048           84                 2.666667
+Beast   3                  22.535211           71                 2.295775
+        4                  22.429907          107                 2.495327
+Rhombur 2                  21.917808           73                 2.643836
+Baron   2                  21.904762          105                 2.419048
+Paul    3                  21.428571           42                 2.738095
+Yuna    1                  21.052632           95                 2.600000
+Ilban   4                  20.967742          124                 2.629032
+Tessia  2                  20.967742           62                 2.403226
+Helena  1                  20.689655           58                 2.689655
+Paul    1                  20.512821           78                 2.589744
+Baron   3                  20.454545           88                 2.625000
+Leto    2                  20.000000           70                 2.557143
+Yuna    3                  19.444444           36                 2.583333
+Ilban   2                  18.367347           49                 2.530612
+Ecaz    4                  18.181818          110                 2.554545
+Helena  4                  17.741935          124                 2.798387
+        2                  16.000000           50                 2.700000
+Ilesa   2                  14.705882           34                 2.588235
+Paul    2                  14.285714           35                 2.942857
+Helena  3                  13.750000           80                 2.900000
+Leto    3                  13.559322           59                 2.847458
+Hundro  4                  11.428571           35                 3.000000
+Leto    4                   8.196721           61                 3.016393
+Paul    4                   7.407407           27                 3.148148
 Memnon  4                   0.000000            6                 3.000000
 Yuna    4                   0.000000           13                 3.153846
 
 Leader Statistics based on Starting Position:
 
 Position 1: Win Rate Average Ending Position Total Games
-Ilesa  :	47.37%	2.11	38.0
-Baron  :	45.76%	2.08	59.0
-Memnon :	40.00%	2.28	25.0
-Hundro :	39.71%	2.03	68.0
-Ariana :	39.53%	2.12	43.0
-Tessia :	36.21%	2.17	58.0
-Beast  :	35.85%	2.17	53.0
-Ilban  :	32.50%	2.30	40.0
-Ecaz   :	30.61%	2.43	49.0
-Rhombur:	29.03%	2.45	62.0
-Leto   :	26.79%	2.46	56.0
-Helena :	22.45%	2.63	49.0
-Paul   :	21.21%	2.61	66.0
-Yuna   :	20.00%	2.63	75.0
+Ilesa  :	46.67%	2.07	45.0
+Baron  :	45.95%	2.07	74.0
+Ariana :	41.38%	2.09	58.0
+Hundro :	40.79%	2.00	76.0
+Tessia :	40.00%	2.11	65.0
+Memnon :	37.84%	2.35	37.0
+Beast  :	33.33%	2.22	60.0
+Ilban  :	32.69%	2.25	52.0
+Rhombur:	31.51%	2.44	73.0
+Leto   :	28.36%	2.45	67.0
+Ecaz   :	26.15%	2.55	65.0
+Yuna   :	21.05%	2.60	95.0
+Helena :	20.69%	2.69	58.0
+Paul   :	20.51%	2.59	78.0
 
 Position 2: Win Rate Average Ending Position Total Games
-Memnon :	53.85%	2.00	13.0
-Hundro :	33.94%	2.22	109.0
-Beast  :	27.78%	2.33	72.0
-Ecaz   :	26.83%	2.46	41.0
-Yuna   :	26.56%	2.62	64.0
-Baron  :	23.33%	2.38	90.0
-Leto   :	22.41%	2.41	58.0
-Ariana :	22.22%	2.47	45.0
-Rhombur:	18.64%	2.75	59.0
-Tessia :	18.00%	2.46	50.0
-Helena :	17.50%	2.65	40.0
-Ilban  :	17.07%	2.61	41.0
-Paul   :	16.13%	2.87	31.0
-Ilesa  :	14.29%	2.71	28.0
+Memnon :	56.25%	1.94	16.0
+Hundro :	29.41%	2.30	136.0
+Beast  :	28.57%	2.27	91.0
+Ecaz   :	26.09%	2.46	46.0
+Ariana :	25.00%	2.42	52.0
+Yuna   :	22.62%	2.67	84.0
+Rhombur:	21.92%	2.64	73.0
+Baron  :	21.90%	2.42	105.0
+Tessia :	20.97%	2.40	62.0
+Leto   :	20.00%	2.56	70.0
+Ilban  :	18.37%	2.53	49.0
+Helena :	16.00%	2.70	50.0
+Ilesa  :	14.71%	2.59	34.0
+Paul   :	14.29%	2.94	35.0
 
 Position 3: Win Rate Average Ending Position Total Games
-Memnon :	40.00%	2.20	5.0
-Ilban  :	32.50%	2.38	80.0
-Ilesa  :	30.43%	2.48	23.0
-Rhombur:	29.55%	2.39	44.0
-Ecaz   :	28.57%	2.50	70.0
-Ariana :	25.93%	2.30	54.0
-Hundro :	23.76%	2.51	101.0
-Tessia :	23.53%	2.35	51.0
-Beast  :	22.81%	2.30	57.0
-Paul   :	18.92%	2.81	37.0
-Baron  :	18.31%	2.66	71.0
-Yuna   :	16.67%	2.60	30.0
-Helena :	14.49%	2.84	69.0
-Leto   :	12.24%	2.92	49.0
+Memnon :	37.50%	2.38	8.0
+Ilesa  :	29.63%	2.41	27.0
+Ilban  :	29.59%	2.45	98.0
+Ecaz   :	29.07%	2.48	86.0
+Rhombur:	26.42%	2.45	53.0
+Ariana :	25.68%	2.31	74.0
+Tessia :	25.00%	2.41	64.0
+Hundro :	23.08%	2.56	117.0
+Beast  :	22.54%	2.30	71.0
+Paul   :	21.43%	2.74	42.0
+Baron  :	20.45%	2.62	88.0
+Yuna   :	19.44%	2.58	36.0
+Helena :	13.75%	2.90	80.0
+Leto   :	13.56%	2.85	59.0
 
 Position 4: Win Rate Average Ending Position Total Games
-Ilesa  :	38.46%	2.15	13.0
-Ariana :	31.75%	2.43	63.0
-Tessia :	31.58%	2.39	57.0
-Baron  :	28.57%	2.51	70.0
-Beast  :	21.51%	2.52	93.0
-Rhombur:	21.05%	2.66	38.0
-Ilban  :	20.20%	2.67	99.0
-Ecaz   :	18.09%	2.59	94.0
-Helena :	17.17%	2.79	99.0
-Leto   :	6.12%	3.08	49.0
-Paul   :	4.76%	3.19	21.0
-Hundro :	3.85%	3.19	26.0
+Ilesa  :	33.33%	2.40	15.0
+Ariana :	32.50%	2.36	80.0
+Tessia :	28.77%	2.42	73.0
+Rhombur:	25.58%	2.60	43.0
+Baron  :	24.71%	2.64	85.0
+Beast  :	22.43%	2.50	107.0
+Ilban  :	20.97%	2.63	124.0
+Ecaz   :	18.18%	2.55	110.0
+Helena :	17.74%	2.80	124.0
+Hundro :	11.43%	3.00	35.0
+Leto   :	8.20%	3.02	61.0
+Paul   :	7.41%	3.15	27.0
 Memnon :	0.00%	3.00	6.0
 Yuna   :	0.00%	3.15	13.0
 
@@ -147,92 +147,92 @@ Total Average Winrate and Average Ending Position for Each Leader:
 
 For each leader, the following lines show: Win Rate / Average Ending Position / Total Games Played for each seat.
 
-Memnon: Win Rate: 38.78%, Average Ending Position: 2.29
-Seat 1: 40.00% / 2.28 / 25.0
-Seat 2: 53.85% / 2.00 / 13.0
-Seat 3: 40.00% / 2.20 / 5.0
+Memnon: Win Rate: 38.81%, Average Ending Position: 2.31
+Seat 1: 37.84% / 2.35 / 37.0
+Seat 2: 56.25% / 1.94 / 16.0
+Seat 3: 37.50% / 2.38 / 8.0
 Seat 4: 0.00% / 3.00 / 6.0
 
-Ilesa: Win Rate: 33.33%, Average Ending Position: 2.36
-Seat 1: 47.37% / 2.11 / 38.0
-Seat 2: 14.29% / 2.71 / 28.0
-Seat 3: 30.43% / 2.48 / 23.0
-Seat 4: 38.46% / 2.15 / 13.0
+Ilesa: Win Rate: 32.23%, Average Ending Position: 2.33
+Seat 1: 46.67% / 2.07 / 45.0
+Seat 2: 14.71% / 2.59 / 34.0
+Seat 3: 29.63% / 2.41 / 27.0
+Seat 4: 33.33% / 2.40 / 15.0
 
-Ariana: Win Rate: 29.76%, Average Ending Position: 2.34
-Seat 1: 39.53% / 2.12 / 43.0
-Seat 2: 22.22% / 2.47 / 45.0
-Seat 3: 25.93% / 2.30 / 54.0
-Seat 4: 31.75% / 2.43 / 63.0
+Ariana: Win Rate: 31.06%, Average Ending Position: 2.30
+Seat 1: 41.38% / 2.09 / 58.0
+Seat 2: 25.00% / 2.42 / 52.0
+Seat 3: 25.68% / 2.31 / 74.0
+Seat 4: 32.50% / 2.36 / 80.0
 
-Hundro: Win Rate: 29.28%, Average Ending Position: 2.36
-Seat 1: 39.71% / 2.03 / 68.0
-Seat 2: 33.94% / 2.22 / 109.0
-Seat 3: 23.76% / 2.51 / 101.0
-Seat 4: 3.85% / 3.19 / 26.0
+Tessia: Win Rate: 28.79%, Average Ending Position: 2.34
+Seat 1: 40.00% / 2.11 / 65.0
+Seat 2: 20.97% / 2.40 / 62.0
+Seat 3: 25.00% / 2.41 / 64.0
+Seat 4: 28.77% / 2.42 / 73.0
 
-Baron: Win Rate: 27.93%, Average Ending Position: 2.42
-Seat 1: 45.76% / 2.08 / 59.0
-Seat 2: 23.33% / 2.38 / 90.0
-Seat 3: 18.31% / 2.66 / 71.0
-Seat 4: 28.57% / 2.51 / 70.0
+Hundro: Win Rate: 28.02%, Average Ending Position: 2.39
+Seat 1: 40.79% / 2.00 / 76.0
+Seat 2: 29.41% / 2.30 / 136.0
+Seat 3: 23.08% / 2.56 / 117.0
+Seat 4: 11.43% / 3.00 / 35.0
 
-Tessia: Win Rate: 27.78%, Average Ending Position: 2.34
-Seat 1: 36.21% / 2.17 / 58.0
-Seat 2: 18.00% / 2.46 / 50.0
-Seat 3: 23.53% / 2.35 / 51.0
-Seat 4: 31.58% / 2.39 / 57.0
+Baron: Win Rate: 27.27%, Average Ending Position: 2.45
+Seat 1: 45.95% / 2.07 / 74.0
+Seat 2: 21.90% / 2.42 / 105.0
+Seat 3: 20.45% / 2.62 / 88.0
+Seat 4: 24.71% / 2.64 / 85.0
 
-Beast: Win Rate: 26.18%, Average Ending Position: 2.36
-Seat 1: 35.85% / 2.17 / 53.0
-Seat 2: 27.78% / 2.33 / 72.0
-Seat 3: 22.81% / 2.30 / 57.0
-Seat 4: 21.51% / 2.52 / 93.0
+Rhombur: Win Rate: 26.45%, Average Ending Position: 2.53
+Seat 1: 31.51% / 2.44 / 73.0
+Seat 2: 21.92% / 2.64 / 73.0
+Seat 3: 26.42% / 2.45 / 53.0
+Seat 4: 25.58% / 2.60 / 43.0
 
-Ilban: Win Rate: 25.38%, Average Ending Position: 2.51
-Seat 1: 32.50% / 2.30 / 40.0
-Seat 2: 17.07% / 2.61 / 41.0
-Seat 3: 32.50% / 2.38 / 80.0
-Seat 4: 20.20% / 2.67 / 99.0
+Beast: Win Rate: 26.14%, Average Ending Position: 2.34
+Seat 1: 33.33% / 2.22 / 60.0
+Seat 2: 28.57% / 2.27 / 91.0
+Seat 3: 22.54% / 2.30 / 71.0
+Seat 4: 22.43% / 2.50 / 107.0
 
-Ecaz: Win Rate: 24.80%, Average Ending Position: 2.51
-Seat 1: 30.61% / 2.43 / 49.0
-Seat 2: 26.83% / 2.46 / 41.0
-Seat 3: 28.57% / 2.50 / 70.0
-Seat 4: 18.09% / 2.59 / 94.0
+Ilban: Win Rate: 25.08%, Average Ending Position: 2.50
+Seat 1: 32.69% / 2.25 / 52.0
+Seat 2: 18.37% / 2.53 / 49.0
+Seat 3: 29.59% / 2.45 / 98.0
+Seat 4: 20.97% / 2.63 / 124.0
 
-Rhombur: Win Rate: 24.63%, Average Ending Position: 2.56
-Seat 1: 29.03% / 2.45 / 62.0
-Seat 2: 18.64% / 2.75 / 59.0
-Seat 3: 29.55% / 2.39 / 44.0
-Seat 4: 21.05% / 2.66 / 38.0
+Ecaz: Win Rate: 24.10%, Average Ending Position: 2.52
+Seat 1: 26.15% / 2.55 / 65.0
+Seat 2: 26.09% / 2.46 / 46.0
+Seat 3: 29.07% / 2.48 / 86.0
+Seat 4: 18.18% / 2.55 / 110.0
 
-Yuna: Win Rate: 20.33%, Average Ending Position: 2.66
-Seat 1: 20.00% / 2.63 / 75.0
-Seat 2: 26.56% / 2.62 / 64.0
-Seat 3: 16.67% / 2.60 / 30.0
+Yuna: Win Rate: 20.18%, Average Ending Position: 2.65
+Seat 1: 21.05% / 2.60 / 95.0
+Seat 2: 22.62% / 2.67 / 84.0
+Seat 3: 19.44% / 2.58 / 36.0
 Seat 4: 0.00% / 3.15 / 13.0
 
-Helena: Win Rate: 17.51%, Average Ending Position: 2.75
-Seat 1: 22.45% / 2.63 / 49.0
-Seat 2: 17.50% / 2.65 / 40.0
-Seat 3: 14.49% / 2.84 / 69.0
-Seat 4: 17.17% / 2.79 / 99.0
+Leto: Win Rate: 17.90%, Average Ending Position: 2.70
+Seat 1: 28.36% / 2.45 / 67.0
+Seat 2: 20.00% / 2.56 / 70.0
+Seat 3: 13.56% / 2.85 / 59.0
+Seat 4: 8.20% / 3.02 / 61.0
 
-Leto: Win Rate: 17.45%, Average Ending Position: 2.70
-Seat 1: 26.79% / 2.46 / 56.0
-Seat 2: 22.41% / 2.41 / 58.0
-Seat 3: 12.24% / 2.92 / 49.0
-Seat 4: 6.12% / 3.08 / 49.0
+Paul: Win Rate: 17.58%, Average Ending Position: 2.77
+Seat 1: 20.51% / 2.59 / 78.0
+Seat 2: 14.29% / 2.94 / 35.0
+Seat 3: 21.43% / 2.74 / 42.0
+Seat 4: 7.41% / 3.15 / 27.0
 
-Paul: Win Rate: 17.42%, Average Ending Position: 2.79
-Seat 1: 21.21% / 2.61 / 66.0
-Seat 2: 16.13% / 2.87 / 31.0
-Seat 3: 18.92% / 2.81 / 37.0
-Seat 4: 4.76% / 3.19 / 21.0
+Helena: Win Rate: 16.99%, Average Ending Position: 2.79
+Seat 1: 20.69% / 2.69 / 58.0
+Seat 2: 16.00% / 2.70 / 50.0
+Seat 3: 13.75% / 2.90 / 80.0
+Seat 4: 17.74% / 2.80 / 124.0
 
 Win Rates for Each Starting Position Across All Players:
-Starting Position 1: 32.39%
-Starting Position 2: 24.16%
-Starting Position 3: 23.21%
-Starting Position 4: 20.24%
+Starting Position 1: 32.56%
+Starting Position 2: 23.48%
+Starting Position 3: 23.26%
+Starting Position 4: 20.71%

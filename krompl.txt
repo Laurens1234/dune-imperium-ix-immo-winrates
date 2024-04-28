@@ -1,0 +1,17 @@
+@krompl
+Starting position 1: 45.00% win rate (games played: 20)
+Starting position 2: 25.00% win rate (games played: 24)
+Starting position 3: 21.05% win rate (games played: 19)
+Starting position 4: 40.74% win rate (games played: 27)
+@krompl
+Ariana: 60.00% win rate (games played: 10)
+Baron: 42.86% win rate (games played: 7)
+Beast: 25.00% win rate (games played: 8)
+Ecaz: 20.00% win rate (games played: 10)
+Hundro: 30.77% win rate (games played: 13)
+Ilban: 23.08% win rate (games played: 13)
+Ilesa: 44.44% win rate (games played: 9)
+Leto: 100.00% win rate (games played: 1)
+Rhombur: 0.00% win rate (games played: 1)
+Tessia: 35.71% win rate (games played: 14)
+Yuna: 0.00% win rate (games played: 4)
