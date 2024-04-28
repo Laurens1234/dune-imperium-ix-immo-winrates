@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Player Win Rate</title>
+</head>
+<body>
+    <h1>Enter Player Name</h1>
+    <form id="playerForm">
+        <input type="text" id="playerName" placeholder="Player Name" required>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('playerForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const playerName = document.getElementById('playerName').value;
+
+            fetch(`/player?name=${encodeURIComponent(playerName)}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('result').innerHTML = data;
+                })
+                .catch(error => console.error(error));
+        });
+    </script>
+</body>
+</html>
