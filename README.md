@@ -13,7 +13,7 @@ Resubmits up to this game have been manually removed from dataset.txt and ns  un
 
 
 How to use:
-create a txt file or add to a txt file games in exactly this format:
+create a txt file or add to a txt file games in exactly this format (look in txt file for examples):
 Dune Imperium Bot
 BOT
  — 04/01/2024 10:15 PM
@@ -23,13 +23,14 @@ Submit Accepted [Game ID: 10]
 3rd:@justinbyun :Beast: Position: 2 -20.4
 4th:@M1X :Baron: Position: 1 -43.6
 
+
 edit this line in main.py to the txt file name:
-# Sample input file name
+ Sample input file name
 input_filename = 'dataset_full_s7.txt'
 
 edit this line to the csv file name:
 
-# Write the parsed data to CSV
+ Write the parsed data to CSV
 write_to_csv(parsed_data, 'dune_imperium_data_full_s7.csv')
 
 python main.py
