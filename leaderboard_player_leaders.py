@@ -7,7 +7,7 @@ print("Only players who have played at least 5 games with a leader are included 
 print("\n")
 
 # Load the CSV file into a DataFrame
-file_path = "dune_imperium_data.csv"  # Specify the correct file path
+file_path = "dune_imperium_data_full_s7.csv"  # Specify the correct file path
 df = pd.read_csv(file_path)
 
 # Group data by leader and player

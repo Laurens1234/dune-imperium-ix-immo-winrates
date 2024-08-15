@@ -1,0 +1,237 @@
+
+Actual number of games played overall: 208.0
+
+Leader Statistics:
+          Win Rate  Total Games  Average Ending Position
+Leader                                                  
+Tessia   36.764706           68                 2.117647
+Ilban    32.000000           75                 2.173333
+Hundro   29.629630           81                 2.444444
+Rhombur  26.562500           64                 2.390625
+Baron    26.436782           87                 2.402299
+Beast    26.153846           65                 2.492308
+Memnon   25.000000            8                 2.500000
+Paul     25.000000           40                 2.500000
+Ariana   24.675325           77                 2.558442
+Ilesa    23.529412           17                 2.529412
+Yuna     20.588235           68                 2.573529
+Leto     19.607843           51                 2.607843
+Helena   14.864865           74                 3.013514
+Ecaz     14.035088           57                 2.807018
+
+Leader and Starting Position Statistics:
+                            Win Rate  Total Games  Average Ending Position
+Leader  Starting Position                                                 
+Ilesa   2                  50.000000            6                 1.833333
+Memnon  3                  50.000000            2                 1.500000
+Tessia  2                  44.444444           18                 1.944444
+        3                  40.000000           15                 1.933333
+Ilban   4                  35.555556           45                 2.066667
+Rhombur 3                  35.000000           20                 2.250000
+Hundro  2                  34.375000           32                 2.281250
+Paul    4                  33.333333           12                 2.500000
+Beast   4                  33.333333           18                 2.222222
+Paul    2                  33.333333            9                 2.666667
+Ariana  4                  33.333333           18                 2.500000
+Tessia  4                  33.333333           21                 2.285714
+Ilban   2                  33.333333            6                 2.166667
+Leto    2                  31.250000           16                 2.250000
+Baron   2                  30.000000           20                 2.300000
+        1                  28.571429           14                 2.071429
+Tessia  1                  28.571429           14                 2.285714
+Hundro  1                  28.571429           28                 2.607143
+Ariana  1                  27.272727           22                 2.409091
+Baron   4                  26.923077           26                 2.615385
+Ilban   3                  26.315789           19                 2.263158
+Rhombur 1                  26.315789           19                 2.368421
+Helena  2                  25.000000           16                 2.625000
+Hundro  3                  25.000000           20                 2.400000
+Beast   1                  25.000000           12                 2.750000
+Ecaz    1                  25.000000           12                 2.666667
+Ariana  2                  25.000000           16                 2.500000
+Yuna    2                  24.000000           25                 2.520000
+Beast   2                  23.529412           17                 2.529412
+Yuna    1                  22.857143           35                 2.400000
+Baron   3                  22.222222           27                 2.444444
+Rhombur 4                  22.222222            9                 2.444444
+Paul    3                  22.222222            9                 2.666667
+Beast   3                  22.222222           18                 2.555556
+Ilesa   1                  20.000000            5                 2.400000
+Memnon  1                  20.000000            5                 2.600000
+Helena  1                  20.000000           15                 2.800000
+Ilban   1                  20.000000            5                 2.800000
+Rhombur 2                  18.750000           16                 2.562500
+Leto    1                  16.666667           12                 2.083333
+Ecaz    4                  14.285714           21                 3.000000
+        3                  14.285714           14                 2.785714
+Ariana  3                  14.285714           21                 2.809524
+Leto    3                  13.333333           15                 3.133333
+        4                  12.500000            8                 3.125000
+Helena  3                  11.111111           18                 3.277778
+Paul    1                  10.000000           10                 2.200000
+Helena  4                   8.000000           25                 3.200000
+Yuna    3                   0.000000            6                 3.666667
+Memnon  2                   0.000000            1                 4.000000
+Ecaz    2                   0.000000           10                 2.600000
+Ilesa   4                   0.000000            2                 4.000000
+        3                   0.000000            4                 3.000000
+Hundro  4                   0.000000            1                 4.000000
+Yuna    4                   0.000000            2                 3.000000
+
+Leader Statistics based on Starting Position:
+
+Position 1: Win Rate Average Ending Position Total Games
+Baron  :	28.57%	2.07	14.0
+Tessia :	28.57%	2.29	14.0
+Hundro :	28.57%	2.61	28.0
+Ariana :	27.27%	2.41	22.0
+Rhombur:	26.32%	2.37	19.0
+Beast  :	25.00%	2.75	12.0
+Ecaz   :	25.00%	2.67	12.0
+Yuna   :	22.86%	2.40	35.0
+Ilesa  :	20.00%	2.40	5.0
+Memnon :	20.00%	2.60	5.0
+Helena :	20.00%	2.80	15.0
+Ilban  :	20.00%	2.80	5.0
+Leto   :	16.67%	2.08	12.0
+Paul   :	10.00%	2.20	10.0
+
+Position 2: Win Rate Average Ending Position Total Games
+Ilesa  :	50.00%	1.83	6.0
+Tessia :	44.44%	1.94	18.0
+Hundro :	34.38%	2.28	32.0
+Paul   :	33.33%	2.67	9.0
+Ilban  :	33.33%	2.17	6.0
+Leto   :	31.25%	2.25	16.0
+Baron  :	30.00%	2.30	20.0
+Helena :	25.00%	2.62	16.0
+Ariana :	25.00%	2.50	16.0
+Yuna   :	24.00%	2.52	25.0
+Beast  :	23.53%	2.53	17.0
+Rhombur:	18.75%	2.56	16.0
+Memnon :	0.00%	4.00	1.0
+Ecaz   :	0.00%	2.60	10.0
+
+Position 3: Win Rate Average Ending Position Total Games
+Memnon :	50.00%	1.50	2.0
+Tessia :	40.00%	1.93	15.0
+Rhombur:	35.00%	2.25	20.0
+Ilban  :	26.32%	2.26	19.0
+Hundro :	25.00%	2.40	20.0
+Baron  :	22.22%	2.44	27.0
+Paul   :	22.22%	2.67	9.0
+Beast  :	22.22%	2.56	18.0
+Ecaz   :	14.29%	2.79	14.0
+Ariana :	14.29%	2.81	21.0
+Leto   :	13.33%	3.13	15.0
+Helena :	11.11%	3.28	18.0
+Yuna   :	0.00%	3.67	6.0
+Ilesa  :	0.00%	3.00	4.0
+
+Position 4: Win Rate Average Ending Position Total Games
+Ilban  :	35.56%	2.07	45.0
+Paul   :	33.33%	2.50	12.0
+Beast  :	33.33%	2.22	18.0
+Ariana :	33.33%	2.50	18.0
+Tessia :	33.33%	2.29	21.0
+Baron  :	26.92%	2.62	26.0
+Rhombur:	22.22%	2.44	9.0
+Ecaz   :	14.29%	3.00	21.0
+Leto   :	12.50%	3.12	8.0
+Helena :	8.00%	3.20	25.0
+Ilesa  :	0.00%	4.00	2.0
+Hundro :	0.00%	4.00	1.0
+Yuna   :	0.00%	3.00	2.0
+
+Total Average Winrate and Average Ending Position for Each Leader:
+
+For each leader, the following lines show: Win Rate / Average Ending Position / Total Games Played for each seat.
+
+Tessia: Win Rate: 36.76%, Average Ending Position: 2.12
+Seat 1: 28.57% / 2.29 / 14.0
+Seat 2: 44.44% / 1.94 / 18.0
+Seat 3: 40.00% / 1.93 / 15.0
+Seat 4: 33.33% / 2.29 / 21.0
+
+Ilban: Win Rate: 32.00%, Average Ending Position: 2.17
+Seat 1: 20.00% / 2.80 / 5.0
+Seat 2: 33.33% / 2.17 / 6.0
+Seat 3: 26.32% / 2.26 / 19.0
+Seat 4: 35.56% / 2.07 / 45.0
+
+Hundro: Win Rate: 29.63%, Average Ending Position: 2.44
+Seat 1: 28.57% / 2.61 / 28.0
+Seat 2: 34.38% / 2.28 / 32.0
+Seat 3: 25.00% / 2.40 / 20.0
+Seat 4: 0.00% / 4.00 / 1.0
+
+Rhombur: Win Rate: 26.56%, Average Ending Position: 2.39
+Seat 1: 26.32% / 2.37 / 19.0
+Seat 2: 18.75% / 2.56 / 16.0
+Seat 3: 35.00% / 2.25 / 20.0
+Seat 4: 22.22% / 2.44 / 9.0
+
+Baron: Win Rate: 26.44%, Average Ending Position: 2.40
+Seat 1: 28.57% / 2.07 / 14.0
+Seat 2: 30.00% / 2.30 / 20.0
+Seat 3: 22.22% / 2.44 / 27.0
+Seat 4: 26.92% / 2.62 / 26.0
+
+Beast: Win Rate: 26.15%, Average Ending Position: 2.49
+Seat 1: 25.00% / 2.75 / 12.0
+Seat 2: 23.53% / 2.53 / 17.0
+Seat 3: 22.22% / 2.56 / 18.0
+Seat 4: 33.33% / 2.22 / 18.0
+
+Memnon: Win Rate: 25.00%, Average Ending Position: 2.50
+Seat 1: 20.00% / 2.60 / 5.0
+Seat 2: 0.00% / 4.00 / 1.0
+Seat 3: 50.00% / 1.50 / 2.0
+
+Paul: Win Rate: 25.00%, Average Ending Position: 2.50
+Seat 1: 10.00% / 2.20 / 10.0
+Seat 2: 33.33% / 2.67 / 9.0
+Seat 3: 22.22% / 2.67 / 9.0
+Seat 4: 33.33% / 2.50 / 12.0
+
+Ariana: Win Rate: 24.68%, Average Ending Position: 2.56
+Seat 1: 27.27% / 2.41 / 22.0
+Seat 2: 25.00% / 2.50 / 16.0
+Seat 3: 14.29% / 2.81 / 21.0
+Seat 4: 33.33% / 2.50 / 18.0
+
+Ilesa: Win Rate: 23.53%, Average Ending Position: 2.53
+Seat 1: 20.00% / 2.40 / 5.0
+Seat 2: 50.00% / 1.83 / 6.0
+Seat 3: 0.00% / 3.00 / 4.0
+Seat 4: 0.00% / 4.00 / 2.0
+
+Yuna: Win Rate: 20.59%, Average Ending Position: 2.57
+Seat 1: 22.86% / 2.40 / 35.0
+Seat 2: 24.00% / 2.52 / 25.0
+Seat 3: 0.00% / 3.67 / 6.0
+Seat 4: 0.00% / 3.00 / 2.0
+
+Leto: Win Rate: 19.61%, Average Ending Position: 2.61
+Seat 1: 16.67% / 2.08 / 12.0
+Seat 2: 31.25% / 2.25 / 16.0
+Seat 3: 13.33% / 3.13 / 15.0
+Seat 4: 12.50% / 3.12 / 8.0
+
+Helena: Win Rate: 14.86%, Average Ending Position: 3.01
+Seat 1: 20.00% / 2.80 / 15.0
+Seat 2: 25.00% / 2.62 / 16.0
+Seat 3: 11.11% / 3.28 / 18.0
+Seat 4: 8.00% / 3.20 / 25.0
+
+Ecaz: Win Rate: 14.04%, Average Ending Position: 2.81
+Seat 1: 25.00% / 2.67 / 12.0
+Seat 2: 0.00% / 2.60 / 10.0
+Seat 3: 14.29% / 2.79 / 14.0
+Seat 4: 14.29% / 3.00 / 21.0
+
+Win Rates for Each Starting Position Across All Players:
+Starting Position 1: 24.04%
+Starting Position 2: 28.37%
+Starting Position 3: 21.63%
+Starting Position 4: 25.96%

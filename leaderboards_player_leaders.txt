@@ -5,111 +5,111 @@ Only players who have played at least 5 games with a leader are included in the 
 
 Leaderboard for Leader: Ariana
 1. @justinbyun  71.43% (7.0)
-2. @Rosco  60.00% (10.0)
-3. @krompl  60.00% (10.0)
-4. @lilgreenghouls  54.55% (11.0)
-5. @Yung Savage  52.63% (19.0)
+2. @CrazyApple  60.00% (5.0)
+3. @Rosco  54.55% (11.0)
+4. @lilgreenghouls  53.33% (15.0)
+5. @Yung Savage  47.83% (23.0)
 
 
 Leaderboard for Leader: Baron
-1. @Benten  66.67% (15.0)
-2. @davidli642  57.14% (14.0)
-3. @Ideel  57.14% (7.0)
-4. @In Flames  54.55% (11.0)
-5. @crashtest776  50.00% (8.0)
+1. @hersheylim  80.00% (5.0)
+2. @Benten  66.67% (15.0)
+3. @davidli642  58.33% (24.0)
+4. @Ideel  50.00% (8.0)
+5. @In Flames  50.00% (12.0)
 
 
 Leaderboard for Leader: Beast
-1. @rybas_h3  75.00% (8.0)
+1. @rybas_h3  77.78% (9.0)
 2. @zafy  66.67% (6.0)
-3. @justinbyun  61.11% (18.0)
-4. @Zelbot  50.00% (12.0)
-5. @In Flames  40.00% (5.0)
+3. @justinbyun  63.64% (22.0)
+4. @someproudly  50.00% (8.0)
+5. @lilgreenghouls  50.00% (6.0)
 
 
 Leaderboard for Leader: Ecaz
 1. @justinbyun  55.56% (9.0)
 2. @Ideel  50.00% (6.0)
-3. @Yung Savage  50.00% (12.0)
-4. @lilgreenghouls  40.00% (10.0)
+3. @davidli642  50.00% (6.0)
+4. @IFreeMan  40.00% (5.0)
 5. @zafy  39.29% (28.0)
 
 
 Leaderboard for Leader: Helena
 1. @rybas_h3  81.82% (11.0)
-2. @contiuspilate  50.00% (6.0)
-3. @Woerdistan  50.00% (8.0)
-4. @friachi  40.00% (5.0)
-5. @Cabbage Cat  33.33% (6.0)
+2. @someproudly  50.00% (6.0)
+3. @Woerdistan  44.44% (9.0)
+4. @contiuspilate  42.86% (7.0)
+5. @friachi  40.00% (5.0)
 
 
 Leaderboard for Leader: Hundro
-1. @Vigo  57.14% (7.0)
-2. @Ideel  50.00% (10.0)
-3. @zafy  46.15% (13.0)
-4. @Thuney  44.44% (9.0)
-5. @darkdinner  40.00% (5.0)
+1. @rybas_h3  80.00% (5.0)
+2. @Thuney  58.33% (12.0)
+3. @Benten  50.00% (8.0)
+4. @Vigo  50.00% (10.0)
+5. @Woerdistan  50.00% (6.0)
 
 
 Leaderboard for Leader: Ilban
-1. @zafy  44.44% (18.0)
-2. @devzzzy  40.00% (15.0)
-3. @dragalar  40.00% (10.0)
-4. @darkdinner  40.00% (15.0)
-5. @Zelbot  38.89% (18.0)
+1. @davidli642  66.67% (6.0)
+2. @Londonerd  60.00% (5.0)
+3. @zafy  44.44% (18.0)
+4. @devzzzy  40.00% (15.0)
+5. @darkdinner  38.89% (18.0)
 
 
 Leaderboard for Leader: Ilesa
 1. @CrazyApple  80.00% (5.0)
 2. @Vigo  50.00% (20.0)
 3. @krompl  44.44% (9.0)
-4. @hersheylim  40.00% (5.0)
+4. @contiuspilate  33.33% (6.0)
 5. @friachi  33.33% (6.0)
 
 
 Leaderboard for Leader: Leto
 1. @zafy  40.00% (5.0)
-2. @IFreeMan  37.50% (8.0)
-3. @devzzzy  33.33% (6.0)
+2. @Zelbot  40.00% (5.0)
+3. @MMB  40.00% (5.0)
 4. @rybas_h3  33.33% (6.0)
-5. @Ajokli  20.00% (5.0)
+5. @IFreeMan  33.33% (9.0)
 
 
 Leaderboard for Leader: Memnon
 1. @Benten  83.33% (6.0)
 2. @contiuspilate  80.00% (5.0)
-3. @Yooliss  11.11% (9.0)
+3. @Yooliss  10.00% (10.0)
 
 
 Leaderboard for Leader: Paul
-1. @Yung Savage  62.50% (8.0)
+1. @Yung Savage  50.00% (12.0)
 2. @Iscreaman  45.45% (11.0)
-3. @nobody09  33.33% (6.0)
-4. @darkdinner  28.57% (7.0)
+3. @Lonk  25.00% (12.0)
+4. @nobody09  25.00% (8.0)
 5. @Gros-Seb  20.00% (5.0)
 
 
 Leaderboard for Leader: Rhombur
 1. @CrazyApple  66.67% (6.0)
-2. @Franz  66.67% (6.0)
-3. @eliottjacques5  62.50% (8.0)
-4. @Lonk  40.00% (5.0)
-5. @contiuspilate  40.00% (5.0)
+2. @eliottjacques5  62.50% (8.0)
+3. @contiuspilate  50.00% (6.0)
+4. @Lonk  50.00% (6.0)
+5. @hersheylim  50.00% (6.0)
 
 
 Leaderboard for Leader: Tessia
-1. @Thuney  63.64% (11.0)
-2. @darkdinner  44.44% (9.0)
-3. @IFreeMan  41.46% (41.0)
-4. @rybas_h3  40.00% (5.0)
-5. @krompl  35.71% (14.0)
+1. @Benten  80.00% (5.0)
+2. @vaggelakos13  66.67% (6.0)
+3. @Thuney  58.33% (12.0)
+4. @rybas_h3  50.00% (6.0)
+5. @nobody09  50.00% (6.0)
 
 
 Leaderboard for Leader: Yuna
-1. @zafy  50.00% (12.0)
-2. @lilgreenghouls  40.00% (5.0)
-3. @e_jasmins  25.00% (8.0)
-4. @friachi  25.00% (8.0)
-5. @rybachello  25.00% (8.0)
+1. @CrazyApple  80.00% (5.0)
+2. @Thuney  80.00% (5.0)
+3. @zafy  50.00% (12.0)
+4. @Vigo  40.00% (5.0)
+5. @Lonk  37.50% (8.0)
 
 

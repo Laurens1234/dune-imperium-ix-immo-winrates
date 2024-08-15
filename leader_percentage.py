@@ -21,6 +21,15 @@ leader_stats = pd.concat([leader_counts[['Win Rate', 'Total Games']], average_en
 # Sort the results by win rate
 leader_stats_sorted = leader_stats.sort_values(by='Win Rate', ascending=False)
 
+# Calculate the total number of games played overall
+total_games_overall = leader_counts['Total Games'].sum()
+
+# Divide the total number of games by 4 to account for 4 entries per game
+actual_games_played_overall = total_games_overall / 4
+
+# Display the actual number of games played overall
+print("\nActual number of games played overall: {}".format(actual_games_played_overall))
+
 # Display the Leader Statistics
 print("\nLeader Statistics:")
 print(leader_stats_sorted)

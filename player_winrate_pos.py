@@ -45,7 +45,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Specify the CSV file path
-    file_path = 'dune_imperium_data.csv'  # Specify the correct file path
+    file_path = 'dune_imperium_data_full_s7.csv'  # Specify the correct file path
 
     # Calculate win rates using the specified player name
     calculate_win_rates_by_starting_position(file_path, args.player_name)

@@ -6,7 +6,7 @@ import regex as re  # import the regex module
 # Function to parse the input string and extract relevant information
 def parse_data(input_string):
     # Use regex to extract game IDs, player names, positions, and scores
-    matches = re.findall(r"(?:Game ID: (\d+)|(\d+)(?:st|nd|rd|th):(@[\w\s'|.@🏍\p{Emoji}\[\]()/0-9-]+)\s*:(\w+):\s*Position:\s*(\d+)\s*([-+]?\d*\.\d+|\d+))", input_string, flags=re.UNICODE)
+    matches = re.findall(r"(?:Game ID: (\d+)|(\d+)(?:st|nd|rd|th):(@[\w\s'|.@#🏍\[\]()/0-9\p{Emoji}-\"-]+)\s*:\s*(\w+):\s*Position:\s*(\d+)\s*([-+]?\d*\.\d+|\d+))", input_string, flags=re.UNICODE)
     game_id = None
     parsed_data = []
     ending_position = 1  # Initialize ending position
@@ -40,7 +40,7 @@ def read_data_from_file(filename):
         return file.read()
 
 # Sample input file name
-input_filename = 'dataset.txt'
+input_filename = 'dataset_full_s7.txt'
 
 # Read the input data from the file
 input_data = read_data_from_file(input_filename)
@@ -49,4 +49,4 @@ input_data = read_data_from_file(input_filename)
 parsed_data = parse_data(input_data)
 
 # Write the parsed data to CSV
-write_to_csv(parsed_data, 'dune_imperium_data.csv')
+write_to_csv(parsed_data, 'dune_imperium_data_full_s7.csv')
