@@ -23,6 +23,9 @@ Submit Accepted [Game ID: 10]
 3rd:@justinbyun :Beast: Position: 2 -20.4
 4th:@M1X :Baron: Position: 1 -43.6
 
+You can add these by looking for this on discord messages and copying them: submit accepted
+
+Manually remove resubmits from txt file by looking for this in discord: Game has been flagged as an incorrect submission.
 
 edit this line in main.py to the txt file name:
  Sample input file name
